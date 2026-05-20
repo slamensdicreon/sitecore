@@ -30,6 +30,12 @@ export default defineCliConfig({
       'src/components/image-carousel/*',
       'src/components/accordion-block/*',
       'src/components/image/ImageWrapper.dev.old.tsx',
+      // Pool React components serve the standalone /pool routes only.
+      // They collide by filename with the kit's real Sitecore components
+      // (Hero, Header, Testimonials) and must NOT register in the
+      // component map. Pool *renderings* in Sitecore bind to the kit's
+      // existing components by componentName (e.g. "Hero"), not these.
+      'src/components/pool/*',
     ],
   },
 });
