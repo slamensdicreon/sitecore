@@ -1,0 +1,20 @@
+---
+ID: "b217e9cf-d241-414e-8d91-fd6aeeefd93e"
+Parent: "6b4d1027-1c05-42ce-bd30-08dd1c7e7ce8"
+Template: "6b4d1027-1c05-42ce-bd30-08dd1c7e7ce8"
+Path: "/sitecore/templates/Project/pool/Components/Hero Folder/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d25abfcc-24d1-4f46-b218-7e62a8d4eebc"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d25abfcc-24d1-4f46-b218-7e62a8d4eebc"

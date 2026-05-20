@@ -1,4 +1,4 @@
-import { type NextRequest } from 'next/server';
+import { type NextRequest, NextResponse } from 'next/server';
 import {
   defineProxy,
   AppRouterMultisiteProxy,
@@ -10,78 +10,79 @@ import sites from '.sitecore/sites.json';
 import scConfig from 'sitecore.config';
 import { routing } from './i18n/routing';
 
+/**
+ * Pool-site bypass.
+ *
+ * The standalone "pool" site (App Router route group `src/app/(pool)/`) is a
+ * documented fallback for pages that have not yet been authored in Sitecore.
+ * Routes listed here are rendered directly from the App Router and skip the
+ * Sitecore locale/multisite proxy chain entirely.
+ *
+ * Configure via the `POOL_BYPASS_ROUTES` env var (comma-separated). Each entry
+ * is matched as either an exact path or, if it ends with `/`, a path prefix.
+ * Set `POOL_BYPASS_ROUTES=` (empty) once every pool URL is served from Sitecore
+ * to fully retire the bypass. See `POOL_SITE.md` for the migration playbook.
+ */
+const DEFAULT_POOL_BYPASS = '/,/services,/services/,/pricing,/pricing/,/contact,/contact/,/quote,/quote/';
+
+function parseBypass(raw: string | undefined): { exact: Set<string>; prefixes: string[] } {
+  const exact = new Set<string>();
+  const prefixes: string[] = [];
+  const source = raw ?? DEFAULT_POOL_BYPASS;
+  for (const entry of source.split(',')) {
+    const v = entry.trim();
+    if (!v) continue;
+    if (v.endsWith('/') && v.length > 1) prefixes.push(v);
+    else exact.add(v);
+  }
+  return { exact, prefixes };
+}
+
+const { exact: POOL_EXACT, prefixes: POOL_PREFIXES } = parseBypass(process.env.POOL_BYPASS_ROUTES);
+const POOL_BYPASS_DISABLED = POOL_EXACT.size === 0 && POOL_PREFIXES.length === 0;
+
+function isPoolRoute(pathname: string): boolean {
+  if (POOL_BYPASS_DISABLED) return false;
+  if (POOL_EXACT.has(pathname)) return true;
+  return POOL_PREFIXES.some((p) => pathname.startsWith(p));
+}
+
 const locale = new LocaleProxy({
-  /**
-   * List of sites for site resolver to work with
-   */
   sites,
-  /**
-   * List of all supported locales configured in routing.ts
-   */
   locales: routing.locales.slice(),
-  // This function determines if the middleware should be turned off on per-request basis.
-  // Certain paths are ignored by default (e.g. files and Next.js API routes), but you may wish to disable more.
-  // This is an important performance consideration since Next.js Edge middleware runs on every request.
-  // in multilanguage scenarios, we need locale middleware to always run first to ensure locale is set and used correctly by the rest of the middlewares
   skip: () => false,
 });
 
 const multisite = new AppRouterMultisiteProxy({
-  /**
-   * List of sites for site resolver to work with
-   */
   sites,
   ...scConfig.api.edge,
   ...scConfig.multisite,
-  // This function determines if the middleware should be turned off on per-request basis.
-  // Certain paths are ignored by default (e.g. files and Next.js API routes), but you may wish to disable more.
-  // This is an important performance consideration since Next.js Edge middleware runs on every request.
   skip: () => false,
 });
 
 const redirects = new RedirectsProxy({
-  /**
-   * List of sites for site resolver to work with
-   */
   sites,
   ...scConfig.api.edge,
   ...scConfig.api.local,
   ...scConfig.redirects,
-  // This function determines if the middleware should be turned off on per-request basis.
-  // Certain paths are ignored by default (e.g. Next.js API routes), but you may wish to disable more.
-  // By default it is disabled while in development mode.
-  // This is an important performance consideration since Next.js Edge middleware runs on every request.
   skip: () => false,
 });
 
 const personalize = new PersonalizeProxy({
-  /**
-   * List of sites for site resolver to work with
-   */
   sites,
   ...scConfig.api.edge,
   ...scConfig.personalize,
-  // This function determines if the middleware should be turned off on per-request basis.
-  // Certain paths are ignored by default (e.g. Next.js API routes), but you may wish to disable more.
-  // By default it is disabled while in development mode.
-  // This is an important performance consideration since Next.js Edge middleware runs on every request.
   skip: () => false,
 });
 
 export default function proxy(req: NextRequest) {
+  if (isPoolRoute(req.nextUrl.pathname)) {
+    return NextResponse.next();
+  }
   return defineProxy(locale, multisite, redirects, personalize).exec(req);
 }
 
 export const config = {
-  /*
-   * Match all paths except for:
-   * 1. API route handlers
-   * 2. /_next (Next.js internals)
-   * 3. /sitecore/api (Sitecore API routes)
-   * 4. /- (Sitecore media)
-   * 5. /healthz (Health check)
-   * 7. all root files inside /public
-   */
   matcher: [
     '/',
     '/((?!api/|\\.well-known/|sitemap|robots|llms|_next/|healthz|sitecore/api/|-/|favicon.ico|sc_logo.svg|ai/).*)',

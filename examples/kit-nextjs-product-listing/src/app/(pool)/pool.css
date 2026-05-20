@@ -1,0 +1,237 @@
+/* Caelum brand layer. Scoped to .caelum so it doesn't bleed into Sitecore routes. */
+
+.caelum {
+  --c-ink: #05080c;
+  --c-ground: #0a0f15;
+  --c-surface: #0f1620;
+  --c-surface-2: #161e29;
+  --c-line: rgba(255, 255, 255, 0.08);
+  --c-line-strong: rgba(255, 255, 255, 0.18);
+  --c-text: #e8edf3;
+  --c-text-dim: #97a4b3;
+  --c-text-mute: #5a6878;
+  --c-aqua: #67e8f9;
+  --c-aqua-deep: #0891a8;
+  --c-aqua-glow: rgba(103, 232, 249, 0.18);
+  --c-gold: #d8b465;
+  --c-gold-dim: #8c7340;
+
+  background: radial-gradient(ellipse at top, #0d1620 0%, var(--c-ink) 60%);
+  color: var(--c-text);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.caelum,
+.caelum * {
+  font-family: var(--font-body), 'IBM Plex Sans', system-ui, sans-serif;
+}
+
+.caelum h1,
+.caelum h2,
+.caelum h3,
+.caelum .display {
+  font-family: var(--font-heading), 'Cormorant Garamond', 'Times New Roman', serif;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  line-height: 1.02;
+  color: var(--c-text);
+}
+
+.caelum h1 {
+  font-size: clamp(2.75rem, 6vw, 5.5rem);
+}
+.caelum h2 {
+  font-size: clamp(2rem, 4vw, 3.5rem);
+}
+.caelum h3 {
+  font-size: clamp(1.35rem, 2vw, 1.75rem);
+}
+
+.caelum .eyebrow {
+  font-family: var(--font-accent), 'IBM Plex Mono', monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.32em;
+  font-size: 0.72rem;
+  color: var(--c-aqua);
+}
+
+.caelum .wordmark {
+  font-family: var(--font-heading), serif;
+  letter-spacing: 0.42em;
+  font-weight: 400;
+}
+
+/* Buttons */
+.caelum .btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.95rem 1.6rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  border-radius: 999px;
+  transition: transform 0.25s ease, background 0.25s ease, box-shadow 0.25s ease, color 0.25s ease;
+  cursor: pointer;
+  border: 1px solid transparent;
+  white-space: nowrap;
+}
+.caelum .btn-primary {
+  background: var(--c-text);
+  color: var(--c-ink);
+  box-shadow: 0 14px 36px -18px rgba(232, 237, 243, 0.5);
+}
+.caelum .btn-primary:hover {
+  background: var(--c-aqua);
+  color: var(--c-ink);
+  transform: translateY(-1px);
+  box-shadow: 0 18px 48px -16px var(--c-aqua-glow);
+}
+.caelum .btn-ghost {
+  background: transparent;
+  color: var(--c-text);
+  border-color: var(--c-line-strong);
+}
+.caelum .btn-ghost:hover {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: var(--c-aqua);
+  color: var(--c-aqua);
+  transform: translateY(-1px);
+}
+.caelum .btn-gold {
+  background: linear-gradient(180deg, #e6c87a 0%, #c9a55a 100%);
+  color: #261a06;
+  border: 1px solid rgba(255, 220, 150, 0.4);
+  box-shadow: 0 14px 30px -18px rgba(216, 180, 101, 0.6);
+}
+.caelum .btn-gold:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 20px 40px -16px rgba(216, 180, 101, 0.7);
+}
+
+/* Hairline divider */
+.caelum .hairline {
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--c-line-strong) 20%,
+    var(--c-line-strong) 80%,
+    transparent
+  );
+}
+
+/* Reveal animation */
+@keyframes caelumRise {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.caelum .reveal {
+  animation: caelumRise 1s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+.caelum .reveal-delay-1 {
+  animation-delay: 0.15s;
+}
+.caelum .reveal-delay-2 {
+  animation-delay: 0.3s;
+}
+.caelum .reveal-delay-3 {
+  animation-delay: 0.45s;
+}
+
+/* Card surfaces */
+.caelum .card {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.025), rgba(255, 255, 255, 0));
+  border: 1px solid var(--c-line);
+  border-radius: 22px;
+  overflow: hidden;
+  transition: border-color 0.4s ease, transform 0.4s ease, background 0.4s ease;
+}
+.caelum .card:hover {
+  border-color: var(--c-line-strong);
+  transform: translateY(-3px);
+}
+
+/* Section paddings */
+.caelum section {
+  position: relative;
+}
+
+.caelum .container-luxe {
+  width: 100%;
+  max-width: 1320px;
+  margin-inline: auto;
+  padding-inline: clamp(1.25rem, 4vw, 3rem);
+}
+
+/* Form controls */
+.caelum input[type='text'],
+.caelum input[type='email'],
+.caelum input[type='tel'],
+.caelum textarea,
+.caelum select {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--c-line-strong);
+  border-radius: 12px;
+  padding: 0.9rem 1rem;
+  color: var(--c-text);
+  width: 100%;
+  font-size: 0.95rem;
+  transition: border-color 0.2s, background 0.2s;
+}
+.caelum input:focus,
+.caelum textarea:focus,
+.caelum select:focus {
+  outline: none;
+  border-color: var(--c-aqua);
+  background: rgba(103, 232, 249, 0.04);
+}
+.caelum label {
+  color: var(--c-text-dim);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+}
+
+/* Water shimmer for hero overlay */
+@keyframes caelumShimmer {
+  0%,
+  100% {
+    opacity: 0.45;
+    transform: translateX(-3%);
+  }
+  50% {
+    opacity: 0.7;
+    transform: translateX(3%);
+  }
+}
+.caelum .shimmer {
+  animation: caelumShimmer 8s ease-in-out infinite;
+}
+
+/* Make images crisper against dark bg */
+.caelum img {
+  image-rendering: auto;
+}
+
+/* Hide root site chrome leaking through */
+.caelum a {
+  color: inherit;
+  text-decoration: none;
+}
+.caelum a:hover {
+  color: var(--c-aqua);
+}
+
+.caelum ::selection {
+  background: var(--c-aqua);
+  color: var(--c-ink);
+}

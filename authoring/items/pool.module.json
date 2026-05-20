@@ -1,0 +1,23 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.pool",
+  "items": {
+    "includes": [
+      {
+        "name": "pool.templates",
+        "path": "/sitecore/templates/Project/pool",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "pool.renderings",
+        "path": "/sitecore/Layout/Renderings/Project/pool",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "pool.placeholderSettings",
+        "path": "/sitecore/Layout/Placeholder Settings/Project/pool",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}

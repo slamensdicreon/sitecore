@@ -1,0 +1,16 @@
+---
+ID: "375bb0f1-6846-40fa-8cfe-d04af7bc6c38"
+Parent: "a5e8e1fa-17df-4e47-b232-0c6c65543e77"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: "/sitecore/layout/Placeholder Settings/Project/pool/Page Structure"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "443a08d0-23da-462a-bd09-7c91314d84b9"
