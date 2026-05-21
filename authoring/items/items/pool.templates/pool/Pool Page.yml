@@ -7,9 +7,12 @@ SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: office/32x32/document_globe.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{47151711-26CA-434E-8132-D3E0B7D26683}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "612a1b32-15f5-22ba-fbed-b0d7ab01fbd4"
+  Value: "612a1b33-15f5-22ba-fbed-b0d7ab01fbd5"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
   Value: "{67507AA2-1764-B1F9-4992-D9A70AC83755}"
