@@ -10,7 +10,7 @@
 // the Sitecore component map once `src/components/pool/*` is removed from
 // the `exclude` list in `sitecore.cli.config.ts`.
 
-import { Field, ImageField, LinkField } from '@sitecore-content-sdk/nextjs';
+import { Field, ImageField, LinkField, RichTextField } from '@sitecore-content-sdk/nextjs';
 import { ComponentProps } from '@/lib/component-props';
 
 export interface HeroParams {
@@ -20,7 +20,7 @@ export interface HeroParams {
 export interface PoolHeroFields {
   eyebrow: Field<string>;
   title: Field<string>;
-  subtitle: Field<string>;
+  subtitle: RichTextField;
   image: ImageField;
   primaryCta: LinkField;
   secondaryCta: LinkField;

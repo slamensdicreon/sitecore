@@ -12,7 +12,7 @@
 // exclude is in place, this file is a draft reference component — the
 // canonical entry point for the standalone site is still `Hero.tsx`.
 
-import { Text, Image, Link } from '@sitecore-content-sdk/nextjs';
+import { Text, RichText, Image, Link } from '@sitecore-content-sdk/nextjs';
 import type { PoolHeroProps } from './PoolHero.props';
 
 export const Default: React.FC<PoolHeroProps> = (props) => {
@@ -63,7 +63,7 @@ export const Default: React.FC<PoolHeroProps> = (props) => {
             field={fields.title}
             className="reveal reveal-delay-1 leading-[1.02]"
           />
-          <Text
+          <RichText
             tag="p"
             field={fields.subtitle}
             className="reveal reveal-delay-2 mt-8 max-w-xl text-lg md:text-xl leading-relaxed"
