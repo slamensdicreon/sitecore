@@ -28,6 +28,9 @@ Languages:
     - ID: "fad4bb8e-e389-4e21-a21b-c847c382a5b0"
       Hint: subtitle
       Value: "<p>Tell us a little about the project. A designer will reply within one business day with three potential site visits — no automated emails, no sales sequences.</p>"
+    - ID: "f96aeb7a-a9b4-479a-b58d-780098d22aba"
+      Hint: image
+      Value: "<image mediaid=\"{8E1EA78B-9D5F-3E04-41B8-568939F1C9F9}\" alt=\"Twilight infinity edge over the Atlantic\" width=\"2000\" height=\"1335\" />"
     - ID: "f88a12b7-44d3-49c5-a087-34882a8052ab"
       Hint: fullViewport
       Value: ""

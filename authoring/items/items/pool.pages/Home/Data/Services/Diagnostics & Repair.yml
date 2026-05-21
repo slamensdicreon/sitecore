@@ -31,6 +31,9 @@ Languages:
     - ID: "240b538e-0f6e-0530-2b3f-b5236a77ef6a"
       Hint: description
       Value: "<p>Most problems are not what they look like. Our team diagnoses before quoting, and explains the why before any work begins.</p>"
+    - ID: "3fc1e47f-5987-6ecb-f323-0322078fbc6e"
+      Hint: image
+      Value: "<image mediaid=\"{523B5366-FEC3-C807-AAE1-01805D0F9AE1}\" alt=\"Diagnostics &amp; Repair\" width=\"1200\" height=\"1800\" />"
     - ID: "9a94b85b-58c8-cf65-9f45-9befbb0ed5cd"
       Hint: bullets
       Value: "<ul><li>Electronic and pressure-test leak detection</li><li>Crack injection and shell repair</li><li>Pump, heater, and salt-cell replacement</li><li>Transparent diagnosis-first quoting</li></ul>"

@@ -31,6 +31,9 @@ Languages:
     - ID: "240b538e-0f6e-0530-2b3f-b5236a77ef6a"
       Hint: description
       Value: "<p>Open the season with clear water on day one, close it knowing nothing will freeze. Both visits include a written condition report.</p>"
+    - ID: "3fc1e47f-5987-6ecb-f323-0322078fbc6e"
+      Hint: image
+      Value: "<image mediaid=\"{56960A0D-2136-BC71-2674-D6FDD10161AF}\" alt=\"Opening &amp; Closing\" width=\"1200\" height=\"800\" />"
     - ID: "9a94b85b-58c8-cf65-9f45-9befbb0ed5cd"
       Hint: bullets
       Value: "<ul><li>Cover removal, cleaning, and storage</li><li>Equipment commissioning and pressure-testing</li><li>Winterization with antifreeze, plugs, and freeze sensors</li><li>Written condition report each visit</li></ul>"

@@ -31,6 +31,9 @@ Languages:
     - ID: "240b538e-0f6e-0530-2b3f-b5236a77ef6a"
       Hint: description
       Value: "<p>Our atelier pairs you with a master designer and structural engineer. Every Caelum pool is one of one — drawn from your site, your home, and the way you live in the water.</p>"
+    - ID: "3fc1e47f-5987-6ecb-f323-0322078fbc6e"
+      Hint: image
+      Value: "<image mediaid=\"{852FE73D-57FE-4932-318B-95617E956D30}\" alt=\"Bespoke Design &amp; Build\" width=\"1200\" height=\"675\" />"
     - ID: "9a94b85b-58c8-cf65-9f45-9befbb0ed5cd"
       Hint: bullets
       Value: "<ul><li>On-site survey and 3D concept renders</li><li>Hand-selected stone, glass tile, and plaster finishes</li><li>Structural engineering with 25-year shell warranty</li><li>Project lead from groundbreak to commissioning</li></ul>"

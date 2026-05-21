@@ -31,6 +31,9 @@ Languages:
     - ID: "240b538e-0f6e-0530-2b3f-b5236a77ef6a"
       Hint: description
       Value: "<p>Most pools age out of style long before they age out of structure. We resurface, reshape, and re-engineer existing pools into spaces that feel brand new.</p>"
+    - ID: "3fc1e47f-5987-6ecb-f323-0322078fbc6e"
+      Hint: image
+      Value: "<image mediaid=\"{42E72191-3275-B189-263F-47F0180B57B8}\" alt=\"Renovation &amp; Re-Imagining\" width=\"1200\" height=\"800\" />"
     - ID: "9a94b85b-58c8-cf65-9f45-9befbb0ed5cd"
       Hint: bullets
       Value: "<ul><li>Plaster, pebble, and glass-tile resurfacing</li><li>Coping, decking, and waterline redesign</li><li>Equipment modernization (variable-speed, salt, automation)</li><li>Energy audits with payback projections</li></ul>"

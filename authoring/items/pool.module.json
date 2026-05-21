@@ -50,6 +50,12 @@
         "allowedPushOperations": "CreateUpdateAndDelete"
       },
       {
+        "name": "pool.media",
+        "path": "/sitecore/media library/Project",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
         "name": "pool.layout",
         "path": "/sitecore/layout/Layouts/Project/pool",
         "scope": "ItemAndDescendants",

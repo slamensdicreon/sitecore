@@ -31,6 +31,9 @@ Languages:
     - ID: "240b538e-0f6e-0530-2b3f-b5236a77ef6a"
       Hint: description
       Value: "<p>We design integrated equipment pads that are quiet, efficient, and beautiful to look at — and connect them to a single app you actually want to open.</p>"
+    - ID: "3fc1e47f-5987-6ecb-f323-0322078fbc6e"
+      Hint: image
+      Value: "<image mediaid=\"{BA0571C3-18E4-E961-F88F-3F224393AE3C}\" alt=\"Equipment &amp; Automation\" width=\"1200\" height=\"800\" />"
     - ID: "9a94b85b-58c8-cf65-9f45-9befbb0ed5cd"
       Hint: bullets
       Value: "<ul><li>Pentair, Jandy, and Hayward authorized installer</li><li>Color-tunable LED lighting scenes</li><li>Salt-chlorine, UV, and ozone sanitization</li><li>Single-app control of pump, heat, light, and water features</li></ul>"

@@ -19,6 +19,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "79b1b0c9-894f-d8a2-19d2-15eedba48339"
+      Hint: image
+      Value: "<image mediaid=\"{163025A1-5169-FF5D-0B8E-AF016C5B94E3}\" alt=\"Twilight infinity edge over the Atlantic\" width=\"1600\" height=\"1068\" />"
     - ID: "8b877ca0-3032-9a1c-a142-045d63ca6155"
       Hint: alt
       Value: Twilight infinity edge over the Atlantic
