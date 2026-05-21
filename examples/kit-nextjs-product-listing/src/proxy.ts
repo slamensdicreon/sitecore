@@ -23,7 +23,7 @@ import { routing } from './i18n/routing';
  * Set `POOL_BYPASS_ROUTES=` (empty) once every pool URL is served from Sitecore
  * to fully retire the bypass. See `POOL_SITE.md` for the migration playbook.
  */
-const DEFAULT_POOL_BYPASS = '';
+const DEFAULT_POOL_BYPASS = '/,/services,/services/,/pricing,/pricing/,/contact,/contact/,/quote,/quote/';
 
 function parseBypass(raw: string | undefined): { exact: Set<string>; prefixes: string[] } {
   const exact = new Set<string>();
