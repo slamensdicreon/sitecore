@@ -1,0 +1,31 @@
+---
+ID: "649308f6-d54b-9241-cc5d-08fbbe2c6859"
+Parent: "db003ee0-dd31-418e-8e27-06c1d4185b03"
+Template: "bf680756-b2fa-4cae-8b69-ee361080616f"
+Path: "/sitecore/content/advanced-sitecore/future/Presentation/Partial Designs/Pool Header"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "58ea3298-5ef9-58fc-46ab-80931bc0d429"
+- ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+  Hint: __Final Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r id="{34B5DF80-1086-4A96-8FCB-4907BF18F1CD}" uid="{0C7AB340-9CA4-F032-7545-F69DC440A34B}" s:par="" s:ds="{A0860B45-0091-DB16-0FED-0449C320D14D}" s:ph="headless-header" /></d></r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Pool Header
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eab00139-3cdb-5e98-6ca8-6498ff16a3c6"

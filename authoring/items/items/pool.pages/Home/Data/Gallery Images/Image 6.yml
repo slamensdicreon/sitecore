@@ -1,0 +1,33 @@
+---
+ID: "ecbc494d-357a-327b-a4ae-46f8958943fc"
+Parent: "5605059c-1ac3-931a-44fd-b05b7bb706e2"
+Template: "48b6eba4-697a-f7b3-333c-66653e3b30e7"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Data/Gallery Images/Image 6"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d6efddf9-decb-7980-64a6-cc348bc0bec8"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Image 6
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8b877ca0-3032-9a1c-a142-045d63ca6155"
+      Hint: alt
+      Value: Dusk gathering, fire feature
+    - ID: "94e0e221-ad99-5796-4414-1bf3f500dd98"
+      Hint: tall
+      Value: ""
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "637242bb-9be9-8f95-b910-3f69a5e2449f"

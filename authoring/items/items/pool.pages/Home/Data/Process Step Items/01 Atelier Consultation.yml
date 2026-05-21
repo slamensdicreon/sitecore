@@ -1,0 +1,36 @@
+---
+ID: "25ae0047-1d84-4d50-8d03-a5a594405dd9"
+Parent: "33f25721-41d4-9eee-5a0b-da24932cd507"
+Template: "53d49db7-2c00-0d47-fb2a-1405b5266b05"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Data/Process Step Items/01 Atelier Consultation"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1acc3498-b635-f74e-20f7-0cfb22b65056"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 01 Atelier Consultation
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b02e70a-1356-7a31-9135-94250784b88c"
+      Hint: number
+      Value: 01
+    - ID: "ed632c8b-7494-73ee-bd3c-0ab938e5322d"
+      Hint: title
+      Value: Atelier Consultation
+    - ID: "43a55663-8620-5a7d-212d-e1e5a61e702c"
+      Hint: body
+      Value: "<p>A 90-minute conversation at your home or our studio. We walk the site, listen to how you live, and sketch first ideas. Confidential, no obligation.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ee75aab-f9cd-3122-e8e3-c4c01ea9f3be"

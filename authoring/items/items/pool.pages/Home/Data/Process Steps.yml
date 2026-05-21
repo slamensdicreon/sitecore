@@ -1,0 +1,39 @@
+---
+ID: "daf41fa7-d903-399e-efd4-f6ab9ed9165e"
+Parent: "86e92742-c620-e6be-117e-4f9d5d5e48f0"
+Template: "90bcf83d-41a9-4541-c74d-5f072692e909"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Data/Process Steps"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6f818a92-f7cf-2984-cbac-c22f8e4d829a"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Process Steps
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "62c464fc-0dd0-362c-4a4c-38f2a47158fd"
+      Hint: eyebrow
+      Value: The Path
+    - ID: "d7871b2e-daea-dfee-4634-5b6c5b7a2731"
+      Hint: title
+      Value: "<p>From first walk to <em>first swim.</em></p>"
+    - ID: "1fe365c6-994b-fb10-e74e-a9bc3e6face5"
+      Hint: intro
+      Value: "<p>A four-stage process refined over twenty-five years. No surprises.</p>"
+    - ID: "80f06180-fc27-1937-6353-ef95aab2e592"
+      Hint: items
+      Value: "{25AE0047-1D84-4D50-8D03-A5A594405DD9}|{3BF23DC9-778B-733C-1CF4-1BDC34FCD5E6}|{7E61BF6B-815C-581D-75CE-27EFEAB6C0D5}|{0A2B1109-F080-9FED-3D81-16383E72E81F}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8eeae3c5-5289-e950-5141-ab141e4192be"

@@ -1,0 +1,45 @@
+---
+ID: "030da9ec-08f7-cb54-05dc-f08785a545c6"
+Parent: "e371b05d-ca89-5fa0-53df-f947c4a86e27"
+Template: "0c05fde9-5849-bef9-db07-8dc89cca1868"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Pricing/Data/Pricing Tiers"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "94a581fa-a7e7-786b-adcf-c6df5e614228"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Pricing Tiers
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3bc1adcc-555d-174d-a16c-9ba5e7a93dae"
+      Hint: eyebrow
+      Value: Three Tiers
+    - ID: "6f8358c1-a252-1307-d7fb-0b546d0e70ea"
+      Hint: title
+      Value: "<p>A range of <em>commitments</em> — none of them small.</p>"
+    - ID: "6e7785c5-3c03-ff23-adae-aaf30f45522a"
+      Hint: intro
+      Value: "<p>Most pools we build fall into one of three forms. All are bespoke; the tier simply reflects ambition and footprint.</p>"
+    - ID: "a28b6d04-46ed-d9a5-8cea-0f006290cd03"
+      Hint: body
+      Value: |
+        <p><strong>Plunge — from $95,000.</strong> Up to 14 × 28 ft. Hand-polished plaster. Single-color LED lighting. Variable-speed pump &amp; cartridge filter. Standard equipment pad.</p>
+        <p><strong>Classic — from $165,000 · most chosen.</strong> Up to 18 × 36 ft. European pebble finish, choice of palette. Color-tunable architectural lighting. Salt-chlorine sanitization + UV polish. Integrated automation app.</p>
+        <p><strong>Signature — from $285,000.</strong> Vanishing edge or custom geometry. Italian glass tile waterline + accents. Integrated spa with spillway. Fire &amp; water feature pairing. Concierge maintenance — first year complimentary.</p>
+    - ID: "26e0b86e-d832-d20c-85ca-7e2d7581ee46"
+      Hint: align
+      Value: left
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18ccfec5-32a6-e680-4efa-75a65ff5cab2"

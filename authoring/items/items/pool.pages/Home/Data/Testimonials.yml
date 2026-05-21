@@ -1,0 +1,39 @@
+---
+ID: "8b5c2ad3-e8b8-5b8c-c466-89846acd579e"
+Parent: "86e92742-c620-e6be-117e-4f9d5d5e48f0"
+Template: "41a64972-18c6-7979-b975-23aa2659c022"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Data/Testimonials"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f24bf27b-2dec-8591-3e46-69c749d26777"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Testimonials
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "64595529-5187-6e17-0a37-9cf62546d86d"
+      Hint: eyebrow
+      Value: In their words
+    - ID: "c31b1345-328e-bcc1-1d77-949edf2f6abe"
+      Hint: title
+      Value: "<p>A practice <em>by reputation.</em></p>"
+    - ID: "d13aa16a-dff3-f51d-b4f5-0470258e5184"
+      Hint: intro
+      Value: "<p>We do not advertise. Every project comes from a referral, and every referral comes from a finished pool.</p>"
+    - ID: "1fd81a97-9376-66e6-8148-70a8a85b7ca4"
+      Hint: items
+      Value: "{E64C770B-D348-7B6C-F288-0BC0E3BA3420}|{A44305CD-FD2C-C5F3-B8A4-1A65DACF930A}|{4588A579-4676-1CE7-AB15-0D69BAC34577}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc18802c-6595-10c3-d8a9-cb59d76dec2e"

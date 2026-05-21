@@ -1,0 +1,45 @@
+---
+ID: "e9af542b-eb5e-18be-ad27-866b634b304b"
+Parent: "e371b05d-ca89-5fa0-53df-f947c4a86e27"
+Template: "6b5c8320-afdf-4bd7-8c4e-6265e35086b5"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Pricing/Data/Hero"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0fd6bd2f-14a5-7455-d9ee-35bfb64ccefd"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "86320955-8dc9-4db1-9476-5b29cec2331e"
+      Hint: eyebrow
+      Value: Investment, Transparent
+    - ID: "4fee9a4a-f96f-4819-90b3-c3d0b88aa111"
+      Hint: title
+      Value: "<p>What a Caelum pool <em>actually costs.</em></p>"
+    - ID: "fad4bb8e-e389-4e21-a21b-c847c382a5b0"
+      Hint: subtitle
+      Value: "<p>Most pool quotes are starting numbers that grow without warning. We publish full ranges, honor the upper bound in writing after a site visit, and never charge for the consultation.</p>"
+    - ID: "f88a12b7-44d3-49c5-a087-34882a8052ab"
+      Hint: fullViewport
+      Value: ""
+    - ID: "0557a619-febe-4196-838f-9fd11d68b0ec"
+      Hint: primaryCta
+      Value: "<link text=\"Open the Calculator\" linktype=\"internal\" url=\"#calculator\" anchor=\"\" target=\"\" />"
+    - ID: "6c69b794-e76c-4680-8b70-9b4ea5f11848"
+      Hint: secondaryCta
+      Value: "<link text=\"Begin a Conversation\" linktype=\"internal\" url=\"/contact\" anchor=\"\" target=\"\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6938ed45-7205-58b6-bf8d-448c5165ffaf"

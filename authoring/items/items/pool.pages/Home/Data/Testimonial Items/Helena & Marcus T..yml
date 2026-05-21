@@ -1,0 +1,36 @@
+---
+ID: "e64c770b-d348-7b6c-f288-0bc0e3ba3420"
+Parent: "8bba383a-dcb1-8813-5798-8f6a157a1f44"
+Template: "953b6d9e-e3bd-5ecb-8ec3-7cabfba7ad5c"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Data/Testimonial Items/Helena & Marcus T."
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0705830b-90e8-e6cf-fce6-75dc00dd06b1"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Helena & Marcus T.
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4695b753-4826-f728-5111-4a59c56398a5"
+      Hint: quote
+      Value: Working with Caelum was the calmest renovation of our lives. They quoted in writing, finished early, and the water feature is the favorite thing in our home.
+    - ID: "da2c1878-6197-8ae3-bb23-7da8dae584fe"
+      Hint: author
+      Value: Helena & Marcus T.
+    - ID: "cfc8b1df-9e57-0f91-3afd-33ab14584048"
+      Hint: role
+      Value: Manalapan, FL · Bespoke build
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "762780a2-1498-a078-5bda-1cc6a4a321e7"

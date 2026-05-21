@@ -1,0 +1,39 @@
+---
+ID: "e6f2efb6-079e-8e84-d7e0-14f53a0c654b"
+Parent: "65a5cf69-3424-a10d-4e6a-8bad7f0d5ec0"
+Template: "6b5c8320-afdf-4bd7-8c4e-6265e35086b5"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Contact/Data/Hero"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ba22fc90-1b06-6d6f-e017-e091fef69011"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "86320955-8dc9-4db1-9476-5b29cec2331e"
+      Hint: eyebrow
+      Value: Begin a Conversation
+    - ID: "4fee9a4a-f96f-4819-90b3-c3d0b88aa111"
+      Hint: title
+      Value: "<p>We design <em>three pools a year</em>.<br/>Yours could be one of them.</p>"
+    - ID: "fad4bb8e-e389-4e21-a21b-c847c382a5b0"
+      Hint: subtitle
+      Value: "<p>Tell us a little about the project. A designer will reply within one business day with three potential site visits — no automated emails, no sales sequences.</p>"
+    - ID: "f88a12b7-44d3-49c5-a087-34882a8052ab"
+      Hint: fullViewport
+      Value: ""
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd6bf3e0-58de-de5c-d5f3-56b3f54d9979"

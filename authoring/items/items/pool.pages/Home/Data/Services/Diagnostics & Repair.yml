@@ -1,0 +1,42 @@
+---
+ID: "aff7eae1-0b88-5a6f-ed63-b2aca8d4f74a"
+Parent: "44db6644-384b-2621-b5ef-29f6f0a33a72"
+Template: "5dabf59f-f91f-38b4-aceb-143ac3d8d5d7"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Data/Services/Diagnostics & Repair"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a1a6f0a4-2f5f-e090-cf24-9e915e91351a"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Diagnostics & Repair
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4c97a68b-4943-bc79-a38e-50f225c1f4e2"
+      Hint: title
+      Value: Diagnostics & Repair
+    - ID: "8bc74104-9638-62d0-de7e-e212fdcb3211"
+      Hint: slug
+      Value: repair
+    - ID: "79ee8da7-db9e-b103-d8b2-49054ae5d321"
+      Hint: blurb
+      Value: Leak detection, structural repair, and equipment service — by technicians who built pools first.
+    - ID: "240b538e-0f6e-0530-2b3f-b5236a77ef6a"
+      Hint: description
+      Value: "<p>Most problems are not what they look like. Our team diagnoses before quoting, and explains the why before any work begins.</p>"
+    - ID: "9a94b85b-58c8-cf65-9f45-9befbb0ed5cd"
+      Hint: bullets
+      Value: "<ul><li>Electronic and pressure-test leak detection</li><li>Crack injection and shell repair</li><li>Pump, heater, and salt-cell replacement</li><li>Transparent diagnosis-first quoting</li></ul>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bbd241fe-e669-1cc1-e645-f76f61a15e9a"

@@ -1,0 +1,30 @@
+---
+ID: "51d3a02d-8441-d14d-d977-92c96591cd0c"
+Parent: "6b6dbeea-963f-4b01-8ce9-e1a097f192dd"
+Template: "ebcffae1-b6b4-4b50-b722-155e869fc430"
+Path: "/sitecore/content/advanced-sitecore/future/Presentation/Page Designs/Pool Default"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a1dbf2a5-4eb5-e94b-1d30-b59ce834f485"
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{649308F6-D54B-9241-CC5D-08FBBE2C6859}|{01D9567F-1834-E9AC-EE22-EBC8AE825FC6}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Pool Default
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f213fc5c-a2b2-6b64-ce3d-b0ab3aee8d55"

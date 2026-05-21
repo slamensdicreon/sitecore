@@ -1,0 +1,33 @@
+---
+ID: "2de31485-348f-dd1e-b04f-8949e3acee72"
+Parent: "95150ace-1aaa-1035-2d47-7c881a423efd"
+Template: "b9732da4-5df2-c52d-b41a-42e5e6b0df86"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Pricing/Data/FAQs/How long does a custom build take"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5d93d376-1a56-2eef-27b3-2dc7c6339dfb"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: How long does a custom build take
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "d3be487d-1595-da57-6be7-2b259a64934a"
+      Hint: question
+      Value: How long does a custom build take?
+    - ID: "430de261-a277-decd-7ff5-29c62ead9717"
+      Hint: answer
+      Value: "<p>A typical Caelum build runs 14–22 weeks from groundbreak to first swim, depending on geology, finish selection, and integration with surrounding architecture. We lock the timeline before the first shovel.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f27c843a-fcf9-e9b3-d3ae-e31c84aec57d"

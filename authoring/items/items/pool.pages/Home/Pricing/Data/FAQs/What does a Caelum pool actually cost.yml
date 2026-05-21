@@ -1,0 +1,33 @@
+---
+ID: "d7a0afdb-97a4-5b7c-7293-91f41100822e"
+Parent: "95150ace-1aaa-1035-2d47-7c881a423efd"
+Template: "b9732da4-5df2-c52d-b41a-42e5e6b0df86"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Pricing/Data/FAQs/What does a Caelum pool actually cost"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4a1682e7-9587-ea96-ca45-6047b88842de"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: What does a Caelum pool actually cost
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "d3be487d-1595-da57-6be7-2b259a64934a"
+      Hint: question
+      Value: What does a Caelum pool actually cost?
+    - ID: "430de261-a277-decd-7ff5-29c62ead9717"
+      Hint: answer
+      Value: "<p>Plunge pools begin at $95,000 and most full bespoke projects fall between $260,000 and $620,000. Our cost calculator on the pricing page provides a realistic range within minutes — and we honor the upper bound of that range in writing after a site visit.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dfe9be3c-f832-a25e-e4b4-87503daea327"

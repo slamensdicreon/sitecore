@@ -1,0 +1,42 @@
+---
+ID: "8f1102cb-ed7e-d8cd-76de-d2141127f9fc"
+Parent: "e371b05d-ca89-5fa0-53df-f947c4a86e27"
+Template: "0aabcfe4-b51b-1dd2-29f8-18b85afc46c9"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Pricing/Data/CTA Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e13cbcab-7e95-3b84-2581-af10b03a5a13"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: CTA Banner
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "cc1d32b2-a9e4-4c4f-efc9-86ab13b69cc6"
+      Hint: eyebrow
+      Value: Begin
+    - ID: "72c4f3ed-c983-e987-5010-c4d76881baab"
+      Hint: title
+      Value: "<p>Tell us about <em>your site.</em></p>"
+    - ID: "feacd0a9-8fb5-16dc-8068-33f596e2600b"
+      Hint: body
+      Value: "<p>A 90-minute consultation, on us. We will leave with a sketch and you will leave with a partner.</p>"
+    - ID: "971cdbe4-c8ae-5d0a-0fa0-84891041f1a6"
+      Hint: primaryCta
+      Value: "<link text=\"Begin a Conversation\" linktype=\"internal\" url=\"/contact\" anchor=\"\" target=\"\" />"
+    - ID: "f0f2aa5a-9695-6162-285d-1fe2a111a094"
+      Hint: secondaryCta
+      Value: "<link text=\"See Pricing\" linktype=\"internal\" url=\"/pricing\" anchor=\"\" target=\"\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb24229e-7a2a-0079-62dd-a04ec8c7c926"

@@ -1,0 +1,33 @@
+---
+ID: "b123a63e-18d3-2b77-e0d2-32ba75a48e94"
+Parent: "5605059c-1ac3-931a-44fd-b05b7bb706e2"
+Template: "48b6eba4-697a-f7b3-333c-66653e3b30e7"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Data/Gallery Images/Image 5"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d28e1d94-afa9-5a2b-b809-2c5996770b8c"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Image 5
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8b877ca0-3032-9a1c-a142-045d63ca6155"
+      Hint: alt
+      Value: Underwater light shafts
+    - ID: "94e0e221-ad99-5796-4414-1bf3f500dd98"
+      Hint: tall
+      Value: ""
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "658353ac-e134-27ec-0aaa-e1de0608057a"

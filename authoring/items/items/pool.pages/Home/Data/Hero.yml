@@ -1,0 +1,39 @@
+---
+ID: "ab09eba0-53a3-f684-ff7b-21796b28231d"
+Parent: "86e92742-c620-e6be-117e-4f9d5d5e48f0"
+Template: "6b5c8320-afdf-4bd7-8c4e-6265e35086b5"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Data/Hero"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ab2271c5-dd8e-b93b-c1fd-24db939857b3"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "86320955-8dc9-4db1-9476-5b29cec2331e"
+      Hint: eyebrow
+      Value: ""
+    - ID: "4fee9a4a-f96f-4819-90b3-c3d0b88aa111"
+      Hint: title
+      Value: "<p>Pools made to be <em>inherited.</em></p>"
+    - ID: "fad4bb8e-e389-4e21-a21b-c847c382a5b0"
+      Hint: subtitle
+      Value: "<p>A South Florida atelier crafting custom pool architecture, restoration, and white-glove stewardship — one project at a time, for clients who keep their homes for a lifetime.</p>"
+    - ID: "f88a12b7-44d3-49c5-a087-34882a8052ab"
+      Hint: fullViewport
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db8f6595-5864-1b36-3f46-2c11328a8b2e"

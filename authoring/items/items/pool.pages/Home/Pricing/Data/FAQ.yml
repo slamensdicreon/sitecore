@@ -1,0 +1,36 @@
+---
+ID: "a2adc269-d220-6b79-c165-5c1441b5570a"
+Parent: "e371b05d-ca89-5fa0-53df-f947c4a86e27"
+Template: "82776d13-b425-e257-ffe2-5eabb99c357b"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Pricing/Data/FAQ"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a49feac9-2ec0-f172-9a36-081df1e431e5"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FAQ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "322942a3-6062-740d-44d5-70c174936a45"
+      Hint: eyebrow
+      Value: Common questions
+    - ID: "4224c491-6d8d-bc5d-bbb4-e1871347a7d3"
+      Hint: title
+      Value: "<p>Answers we wish <em>everyone asked.</em></p>"
+    - ID: "2f6351d3-0a40-0d7e-9678-aa36e47d4807"
+      Hint: items
+      Value: "{2DE31485-348F-DD1E-B04F-8949E3ACEE72}|{D7A0AFDB-97A4-5B7C-7293-91F41100822E}|{D0F1A0C7-6AD3-C807-4114-21AC48BC86B1}|{4F453D34-06D3-3F71-3503-C433863BA7CB}|{B45D6256-C89F-E1C3-FDF5-AF35F0386781}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddf3c589-3473-359e-8d9d-cf7cf02ba042"

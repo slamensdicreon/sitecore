@@ -1,0 +1,39 @@
+---
+ID: "361c13e7-d7a2-1201-9a28-f432c6d66ab5"
+Parent: "0dffcf99-2bb0-21e2-ba7f-36a5a31167c8"
+Template: "8868bc3b-a395-6db9-0bdb-ec692a568730"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Services/Data/Services Grid"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ee42f369-ba42-697e-e0f6-f345ab98a65b"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Services Grid
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3c5182d5-0594-89e5-8c6f-b72abb3948fa"
+      Hint: eyebrow
+      Value: What we make
+    - ID: "f5742ea3-318e-1af0-686e-94478d8beca4"
+      Hint: title
+      Value: "<p>A complete practice — <em>at every stage</em>.</p>"
+    - ID: "6b9bf375-940b-f549-1d88-9ac8387e63bc"
+      Hint: intro
+      Value: "<p>From a first sketch to a 25-year stewardship plan, our atelier holds the work end to end.</p>"
+    - ID: "b69d830e-231a-e6cf-616c-8c5d58d0f19d"
+      Hint: items
+      Value: "{8D67C618-23E3-B94F-104D-B83142FBEC34}|{84D3796E-1DCB-242C-2A6F-CAB39BE9E100}|{97202694-1125-2979-8882-68BC4F881ED6}|{165596D3-DEDA-E56F-0B1D-7B5D52FA9E77}|{945027CE-2628-EAA7-FA3C-DE78FCA39799}|{670CF20C-C640-CD2E-A52F-9B76F631C725}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9fd83b1-88cb-dc8a-8618-46786f420c21"

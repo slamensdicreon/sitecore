@@ -1,0 +1,42 @@
+---
+ID: "165596d3-deda-e56f-0b1d-7b5d52fa9e77"
+Parent: "4ec3c876-abd1-0bdd-17bf-077a0069e89c"
+Template: "5dabf59f-f91f-38b4-aceb-143ac3d8d5d7"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Services/Data/Services/Opening & Closing"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d3cf82b3-a61e-9818-758f-2c7d68c6312b"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Opening & Closing
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4c97a68b-4943-bc79-a38e-50f225c1f4e2"
+      Hint: title
+      Value: Opening & Closing
+    - ID: "8bc74104-9638-62d0-de7e-e212fdcb3211"
+      Hint: slug
+      Value: opening-closing
+    - ID: "79ee8da7-db9e-b103-d8b2-49054ae5d321"
+      Hint: blurb
+      Value: Seasonal transitions handled end-to-end — covers, lines, equipment, and start-up chemistry.
+    - ID: "240b538e-0f6e-0530-2b3f-b5236a77ef6a"
+      Hint: description
+      Value: "<p>Open the season with clear water on day one, close it knowing nothing will freeze. Both visits include a written condition report.</p>"
+    - ID: "9a94b85b-58c8-cf65-9f45-9befbb0ed5cd"
+      Hint: bullets
+      Value: "<ul><li>Cover removal, cleaning, and storage</li><li>Equipment commissioning and pressure-testing</li><li>Winterization with antifreeze, plugs, and freeze sensors</li><li>Written condition report each visit</li></ul>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c485128-52d7-f27b-ab6f-998cf165c706"

@@ -1,0 +1,31 @@
+---
+ID: "01d9567f-1834-e9ac-ee22-ebc8ae825fc6"
+Parent: "db003ee0-dd31-418e-8e27-06c1d4185b03"
+Template: "bf680756-b2fa-4cae-8b69-ee361080616f"
+Path: "/sitecore/content/advanced-sitecore/future/Presentation/Partial Designs/Pool Footer"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "574a6b88-8263-0cb9-a61b-80f2f1c9c7ac"
+- ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+  Hint: __Final Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r id="{7CB7E01A-E442-4E64-B1A4-FEA07BD9C8A5}" uid="{61E2170E-BF54-A68F-E923-90F024950C7C}" s:par="" s:ds="{9884C3AC-77F8-7E58-0228-422713E76D79}" s:ph="headless-footer" /></d></r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Pool Footer
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c6adfae-e96b-d1ab-47b7-30cb4f5d33d8"

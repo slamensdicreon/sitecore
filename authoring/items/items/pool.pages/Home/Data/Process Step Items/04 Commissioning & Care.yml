@@ -1,0 +1,36 @@
+---
+ID: "0a2b1109-f080-9fed-3d81-16383e72e81f"
+Parent: "33f25721-41d4-9eee-5a0b-da24932cd507"
+Template: "53d49db7-2c00-0d47-fb2a-1405b5266b05"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Data/Process Step Items/04 Commissioning & Care"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "699627d5-b42b-bc9d-11c8-216b7c01c0ae"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 04 Commissioning & Care
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b02e70a-1356-7a31-9135-94250784b88c"
+      Hint: number
+      Value: 04
+    - ID: "ed632c8b-7494-73ee-bd3c-0ab938e5322d"
+      Hint: title
+      Value: Commissioning & Care
+    - ID: "43a55663-8620-5a7d-212d-e1e5a61e702c"
+      Hint: body
+      Value: "<p>First swim is ceremonial. We tune water chemistry for two weeks, then transition you to our maintenance program — or hand you a complete owner manual.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ea20252-c170-ce8e-ad16-ab2870012e65"

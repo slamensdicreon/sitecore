@@ -1,0 +1,33 @@
+---
+ID: "c28c8333-1cf8-5a45-dfac-3e3e8449c8dd"
+Parent: "88b405ec-3e93-8017-c04f-3efae187b3fa"
+Template: "17807cce-c6d4-263e-5984-e17ed71765be"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Data/Stats/Years in practice"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "1adb2dd9-66b7-8107-15b0-e4944b6f8caa"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Years in practice
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "a9d1851b-543e-a804-e21c-84f055820254"
+      Hint: value
+      Value: 25
+    - ID: "9c5c8200-b44f-b7f6-acb0-e2a4a7fbe020"
+      Hint: label
+      Value: Years in practice
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da91b56f-7653-6124-4548-856f28b04932"

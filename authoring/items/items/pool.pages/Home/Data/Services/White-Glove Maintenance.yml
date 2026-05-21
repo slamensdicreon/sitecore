@@ -1,0 +1,42 @@
+---
+ID: "d64137b2-9cfe-992e-489f-89a625f469ed"
+Parent: "44db6644-384b-2621-b5ef-29f6f0a33a72"
+Template: "5dabf59f-f91f-38b4-aceb-143ac3d8d5d7"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Data/Services/White-Glove Maintenance"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "64fb52cb-af2a-0043-6b60-546275f27458"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: White-Glove Maintenance
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4c97a68b-4943-bc79-a38e-50f225c1f4e2"
+      Hint: title
+      Value: White-Glove Maintenance
+    - ID: "8bc74104-9638-62d0-de7e-e212fdcb3211"
+      Hint: slug
+      Value: maintenance
+    - ID: "79ee8da7-db9e-b103-d8b2-49054ae5d321"
+      Hint: blurb
+      Value: Weekly stewardship by trained technicians — water chemistry, equipment, and surface care managed for you.
+    - ID: "240b538e-0f6e-0530-2b3f-b5236a77ef6a"
+      Hint: description
+      Value: "<p>Our service members receive a single dedicated technician, a service log per visit, and 48-hour response on any issue.</p>"
+    - ID: "9a94b85b-58c8-cf65-9f45-9befbb0ed5cd"
+      Hint: bullets
+      Value: "<ul><li>Weekly visits with digital service log</li><li>Lab-grade water chemistry every visit</li><li>Filter, pump, and heater preventative care</li><li>Dedicated technician + 48-hour response SLA</li></ul>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e1ec771-e7d5-11bc-6b8a-3a38076c980d"

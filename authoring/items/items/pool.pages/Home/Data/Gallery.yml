@@ -1,0 +1,39 @@
+---
+ID: "b442b727-d233-05b5-2a16-bae80fcb355b"
+Parent: "86e92742-c620-e6be-117e-4f9d5d5e48f0"
+Template: "affaa2b1-46f6-ed92-fb36-de77febd9f42"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Data/Gallery"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "852817de-01de-1b28-498b-c77cb3e2d65a"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Gallery
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "e40ce1a0-112f-21a5-657d-2be8b45e838a"
+      Hint: eyebrow
+      Value: Selected Work
+    - ID: "171f152a-92d4-4237-6b79-648b60936714"
+      Hint: title
+      Value: "<p>A portfolio of <em>quiet permanence.</em></p>"
+    - ID: "3601f62f-4107-6a63-4601-71a6edf7b850"
+      Hint: intro
+      Value: "<p>Eight pools, eight stories. Each begins with a site and ends with a family.</p>"
+    - ID: "9100e7e2-3a27-57ff-5bd7-cc563a1c6c43"
+      Hint: items
+      Value: "{136CAB97-57B0-8985-BFA3-A3C637236F70}|{97BFC78E-EDE5-DE22-4F87-05746A365DBB}|{175B5E66-1435-AF8B-1D71-4A3DFC3FFB54}|{1679F5B8-6BAF-2ACD-FDB0-05BC1AE34C27}|{B123A63E-18D3-2B77-E0D2-32BA75A48E94}|{ECBC494D-357A-327B-A4AE-46F8958943FC}|{007CDCD8-89FB-A806-22DC-9FD9FBFCACD8}|{60AF172B-CC0A-021D-5285-32EE24640E04}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e752243b-3495-f2c5-41a8-ac078a66e4a8"
