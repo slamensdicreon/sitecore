@@ -62,6 +62,10 @@ import * as ProductListingSliderdev from 'src/components/product-listing/Product
 import * as ProductListingDefaultdev from 'src/components/product-listing/ProductListingDefault.dev';
 import * as ProductListing from 'src/components/product-listing/ProductListing';
 import * as portaldev from 'src/components/portal/portal.dev';
+import * as PoolHerodev from 'src/components/pool/sitecore/PoolHero.dev';
+import * as PoolHeaderdev from 'src/components/pool/sitecore/PoolHeader.dev';
+import * as PoolFAQdev from 'src/components/pool/sitecore/PoolFAQ.dev';
+import * as PoolCostCalculatordev from 'src/components/pool/sitecore/PoolCostCalculator.dev';
 import * as PageHeaderFiftyFiftydev from 'src/components/page-header/PageHeaderFiftyFifty.dev';
 import * as PageHeaderDefaultdev from 'src/components/page-header/PageHeaderDefault.dev';
 import * as PageHeaderCentereddev from 'src/components/page-header/PageHeaderCentered.dev';
@@ -183,6 +187,10 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['ProductListingDefault', { ...ProductListingDefaultdev }],
   ['ProductListing', { ...ProductListing }],
   ['portal', { ...portaldev }],
+  ['PoolHero', { ...PoolHerodev }],
+  ['PoolHeader', { ...PoolHeaderdev }],
+  ['PoolFAQ', { ...PoolFAQdev }],
+  ['PoolCostCalculator', { ...PoolCostCalculatordev }],
   ['PageHeaderFiftyFifty', { ...PageHeaderFiftyFiftydev }],
   ['PageHeaderDefault', { ...PageHeaderDefaultdev }],
   ['PageHeaderCentered', { ...PageHeaderCentereddev }],

@@ -1,0 +1,16 @@
+---
+ID: "de4fe0c0-344d-3e2a-ec9a-b58de3c413db"
+Parent: "53d49db7-2c00-0d47-fb2a-1405b5266b05"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/pool/Components/Process Step Item/Process Step Item"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e8d93a1-ee16-5070-bb95-1d76a407d1de"

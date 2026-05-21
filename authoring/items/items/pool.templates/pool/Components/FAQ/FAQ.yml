@@ -1,0 +1,16 @@
+---
+ID: "2d9ecfb7-6e6a-8f49-85e9-06784b78c805"
+Parent: "82776d13-b425-e257-ffe2-5eabb99c357b"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/pool/Components/FAQ/FAQ"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0167dbd-8d9b-e098-f7ea-a6bb5cbb6a64"

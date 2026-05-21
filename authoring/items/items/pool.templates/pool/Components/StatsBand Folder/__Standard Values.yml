@@ -1,0 +1,20 @@
+---
+ID: "e1242d4a-ebe3-2951-04dc-067ed0f5e9e7"
+Parent: "4f87bc61-dcf0-e7cf-dbcd-3178d2ca1a84"
+Template: "4f87bc61-dcf0-e7cf-dbcd-3178d2ca1a84"
+Path: "/sitecore/templates/Project/pool/Components/StatsBand Folder/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4b392d38-819a-d776-eca6-d1dbec2bb2e9"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af36c471-d711-6d84-bb22-b596a10fba21"

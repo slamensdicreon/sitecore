@@ -6,22 +6,28 @@ Path: "/sitecore/layout/Renderings/Project/pool/Section"
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
-  Value: Section
+  Value: PoolSection
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Office/32x32/document_align_left.png
+  Value: office/32x32/document_text.png
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: "/sitecore/templates/Project/pool/Components/Section"
 - ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
 - ID: "a3411ff6-c978-40aa-b059-a49b9ca2209b"
   Hint: Can select Page as a data source
   Value: 1
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: "query:$site/*[@@name='Data']/*[@@templatename='Section Folder']|query:$sharedSites/*[@@name='Data']/*[@@templatename='Section Folder']"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 50
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "b661bfc0-b53d-4094-9a19-cd8b93610e71"
+  Value: "74591af8-8314-0859-0490-cb44cc7469af"
 - ID: "e829c217-5e94-4306-9c48-2634b094fdc2"
   Hint: OtherProperties
   Value: IsRenderingsWithDynamicPlaceholders=true
@@ -39,4 +45,4 @@ Languages:
       Value: 20260520T000000Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b661bfc0-b53d-4094-9a19-cd8b93610e71"
+      Value: "2e0d3f57-1795-0dda-12a3-763925fbb800"

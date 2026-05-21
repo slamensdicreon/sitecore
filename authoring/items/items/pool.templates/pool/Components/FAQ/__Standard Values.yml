@@ -1,0 +1,20 @@
+---
+ID: "429a9082-fbf4-0916-2109-2b116f953dbb"
+Parent: "82776d13-b425-e257-ffe2-5eabb99c357b"
+Template: "82776d13-b425-e257-ffe2-5eabb99c357b"
+Path: "/sitecore/templates/Project/pool/Components/FAQ/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "74cdb57b-8242-839a-3083-585283a95bbd"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c86018d4-3658-87d5-c784-8a0ad97a51e7"

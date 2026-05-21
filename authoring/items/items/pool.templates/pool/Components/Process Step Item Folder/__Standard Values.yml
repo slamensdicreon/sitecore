@@ -1,0 +1,20 @@
+---
+ID: "0367ba70-6e65-d9c4-1168-e2c9bd4df272"
+Parent: "2c4cc76b-13ee-3ead-4791-b7fe2600864f"
+Template: "2c4cc76b-13ee-3ead-4791-b7fe2600864f"
+Path: "/sitecore/templates/Project/pool/Components/Process Step Item Folder/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f548465c-231e-c11c-b755-457e10914626"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "681a1d9b-00b3-ffe2-c4c7-3100826ab807"

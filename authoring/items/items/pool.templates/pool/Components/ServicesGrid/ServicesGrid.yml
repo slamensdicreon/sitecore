@@ -1,0 +1,16 @@
+---
+ID: "0f2a4d36-8d16-cbcb-d227-19eb9669a3d1"
+Parent: "8868bc3b-a395-6db9-0bdb-ec692a568730"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/pool/Components/ServicesGrid/ServicesGrid"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a299c45e-a311-1ae3-43ca-bb3ccf3470fe"

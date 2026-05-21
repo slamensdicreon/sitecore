@@ -1,0 +1,20 @@
+---
+ID: "8b4116cb-fce8-1668-9f49-1e695676e686"
+Parent: "b5934a6a-8c66-36b9-c636-a6665ab091d1"
+Template: "b5934a6a-8c66-36b9-c636-a6665ab091d1"
+Path: "/sitecore/templates/Project/pool/Components/CtaBanner Folder/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "aed7f28d-bf66-5f13-b0b3-5137c72c6f53"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dd51d6ed-f582-0ac0-588b-dc5393ddfc27"

@@ -6,22 +6,28 @@ Path: "/sitecore/layout/Renderings/Project/pool/ProcessSteps"
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
-  Value: ProcessSteps
+  Value: PoolProcessSteps
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Office/32x32/flowchart.png
+  Value: office/32x32/chart_line.png
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: "/sitecore/templates/Project/pool/Components/ProcessSteps"
 - ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
 - ID: "a3411ff6-c978-40aa-b059-a49b9ca2209b"
   Hint: Can select Page as a data source
   Value: 1
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: "query:$site/*[@@name='Data']/*[@@templatename='ProcessSteps Folder']|query:$sharedSites/*[@@name='Data']/*[@@templatename='ProcessSteps Folder']"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 50
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "b661bfc0-b53d-4094-9a19-cd8b93610e71"
+  Value: "350388d7-b7be-29e9-e40f-6d8e1f4abcc2"
 - ID: "e829c217-5e94-4306-9c48-2634b094fdc2"
   Hint: OtherProperties
   Value: IsRenderingsWithDynamicPlaceholders=true
@@ -39,4 +45,4 @@ Languages:
       Value: 20260520T000000Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b661bfc0-b53d-4094-9a19-cd8b93610e71"
+      Value: "2ff9c138-d539-5803-39f0-0d36f7a57083"

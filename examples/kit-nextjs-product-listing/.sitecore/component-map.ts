@@ -116,6 +116,30 @@ import * as ProductListingDefaultdev from 'src/components/product-listing/Produc
 import * as ProductListingCarddev from 'src/components/product-listing/ProductListingCard.dev';
 import * as ProductListing from 'src/components/product-listing/ProductListing';
 import * as portaldev from 'src/components/portal/portal.dev';
+import * as PoolTestimonialsprops from 'src/components/pool/sitecore/PoolTestimonials.props';
+import * as PoolTestimonialsdev from 'src/components/pool/sitecore/PoolTestimonials.dev';
+import * as PoolStatsBandprops from 'src/components/pool/sitecore/PoolStatsBand.props';
+import * as PoolStatsBanddev from 'src/components/pool/sitecore/PoolStatsBand.dev';
+import * as PoolServicesGridprops from 'src/components/pool/sitecore/PoolServicesGrid.props';
+import * as PoolServicesGriddev from 'src/components/pool/sitecore/PoolServicesGrid.dev';
+import * as PoolSectionprops from 'src/components/pool/sitecore/PoolSection.props';
+import * as PoolSectiondev from 'src/components/pool/sitecore/PoolSection.dev';
+import * as PoolProcessStepsprops from 'src/components/pool/sitecore/PoolProcessSteps.props';
+import * as PoolProcessStepsdev from 'src/components/pool/sitecore/PoolProcessSteps.dev';
+import * as PoolHeroprops from 'src/components/pool/sitecore/PoolHero.props';
+import * as PoolHerodev from 'src/components/pool/sitecore/PoolHero.dev';
+import * as PoolHeaderprops from 'src/components/pool/sitecore/PoolHeader.props';
+import * as PoolHeaderdev from 'src/components/pool/sitecore/PoolHeader.dev';
+import * as PoolGalleryprops from 'src/components/pool/sitecore/PoolGallery.props';
+import * as PoolGallerydev from 'src/components/pool/sitecore/PoolGallery.dev';
+import * as PoolFooterprops from 'src/components/pool/sitecore/PoolFooter.props';
+import * as PoolFooterdev from 'src/components/pool/sitecore/PoolFooter.dev';
+import * as PoolFAQprops from 'src/components/pool/sitecore/PoolFAQ.props';
+import * as PoolFAQdev from 'src/components/pool/sitecore/PoolFAQ.dev';
+import * as PoolCtaBannerprops from 'src/components/pool/sitecore/PoolCtaBanner.props';
+import * as PoolCtaBannerdev from 'src/components/pool/sitecore/PoolCtaBanner.dev';
+import * as PoolCostCalculatorprops from 'src/components/pool/sitecore/PoolCostCalculator.props';
+import * as PoolCostCalculatordev from 'src/components/pool/sitecore/PoolCostCalculator.dev';
 import * as pageheaderprops from 'src/components/page-header/page-header.props';
 import * as PageHeaderFiftyFiftydev from 'src/components/page-header/PageHeaderFiftyFifty.dev';
 import * as PageHeaderDefaultdev from 'src/components/page-header/PageHeaderDefault.dev';
@@ -379,6 +403,18 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['ProductListingCard', { ...ProductListingCarddev }],
   ['ProductListing', { ...ProductListing, componentType: 'client' }],
   ['portal', { ...portaldev }],
+  ['PoolTestimonials', { ...PoolTestimonialsprops, ...PoolTestimonialsdev }],
+  ['PoolStatsBand', { ...PoolStatsBandprops, ...PoolStatsBanddev }],
+  ['PoolServicesGrid', { ...PoolServicesGridprops, ...PoolServicesGriddev }],
+  ['PoolSection', { ...PoolSectionprops, ...PoolSectiondev }],
+  ['PoolProcessSteps', { ...PoolProcessStepsprops, ...PoolProcessStepsdev }],
+  ['PoolHero', { ...PoolHeroprops, ...PoolHerodev }],
+  ['PoolHeader', { ...PoolHeaderprops, ...PoolHeaderdev }],
+  ['PoolGallery', { ...PoolGalleryprops, ...PoolGallerydev }],
+  ['PoolFooter', { ...PoolFooterprops, ...PoolFooterdev }],
+  ['PoolFAQ', { ...PoolFAQprops, ...PoolFAQdev }],
+  ['PoolCtaBanner', { ...PoolCtaBannerprops, ...PoolCtaBannerdev }],
+  ['PoolCostCalculator', { ...PoolCostCalculatorprops, ...PoolCostCalculatordev }],
   ['page-header', { ...pageheaderprops }],
   ['PageHeaderFiftyFifty', { ...PageHeaderFiftyFiftydev }],
   ['PageHeaderDefault', { ...PageHeaderDefaultdev }],

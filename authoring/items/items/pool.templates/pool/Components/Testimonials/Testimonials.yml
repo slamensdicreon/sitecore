@@ -1,0 +1,16 @@
+---
+ID: "0083d152-1af3-1cae-a6a8-620b55ccf42d"
+Parent: "41a64972-18c6-7979-b975-23aa2659c022"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/pool/Components/Testimonials/Testimonials"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9123bfe0-c016-f907-56be-c6b0fb64b80c"

@@ -1,0 +1,20 @@
+---
+ID: "8534ee4e-7aa2-e6da-8fd5-11fad09b563c"
+Parent: "dd55d861-48ea-4d9d-2e6d-e71ebf1a5f99"
+Template: "dd55d861-48ea-4d9d-2e6d-e71ebf1a5f99"
+Path: "/sitecore/templates/Project/pool/Components/Testimonials Folder/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "fb6baf75-a3de-1ea3-8056-491e2e688ddb"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f2092121-8475-be92-0bec-f16e1198c857"

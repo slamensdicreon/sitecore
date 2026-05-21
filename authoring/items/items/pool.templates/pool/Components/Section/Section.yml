@@ -1,0 +1,16 @@
+---
+ID: "f1c22f49-7bf4-19ce-20b4-fa95c6bdaaa4"
+Parent: "0c05fde9-5849-bef9-db07-8dc89cca1868"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/pool/Components/Section/Section"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b775e23-95ec-45b7-b254-83d5608c61fe"

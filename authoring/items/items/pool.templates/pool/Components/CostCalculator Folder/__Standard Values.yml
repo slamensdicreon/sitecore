@@ -1,0 +1,20 @@
+---
+ID: "b92f3b8d-1f21-a5a4-76bc-08293ff6284e"
+Parent: "af1d76f5-2a34-4a1a-9817-17650b024626"
+Template: "af1d76f5-2a34-4a1a-9817-17650b024626"
+Path: "/sitecore/templates/Project/pool/Components/CostCalculator Folder/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c2b625f2-f446-e1e7-3eed-b4f38a5ba055"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33827ac9-7cff-88fa-36e1-9d127a7b5a3f"

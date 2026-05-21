@@ -1,0 +1,16 @@
+---
+ID: "c6519c0c-7535-169f-eac0-38d622898e2b"
+Parent: "17807cce-c6d4-263e-5984-e17ed71765be"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/pool/Components/Stat Item/Stat Item"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "030d2ec2-6732-48ac-84b4-ba17dc1bd34f"

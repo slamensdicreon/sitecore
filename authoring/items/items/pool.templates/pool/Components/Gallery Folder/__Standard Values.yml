@@ -1,0 +1,20 @@
+---
+ID: "650e5b23-03ee-2877-7471-767a07a57a47"
+Parent: "d54a0415-2027-a5ec-1cb2-5b7c92421ec1"
+Template: "d54a0415-2027-a5ec-1cb2-5b7c92421ec1"
+Path: "/sitecore/templates/Project/pool/Components/Gallery Folder/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f8966d38-d870-4165-f926-841ba84e9f45"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78b2a8f0-9459-ab81-ce5e-f253815d6aa4"

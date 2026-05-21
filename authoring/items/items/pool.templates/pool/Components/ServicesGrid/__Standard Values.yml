@@ -1,0 +1,20 @@
+---
+ID: "9f4c2e0e-4065-ae84-c4e7-b101078f4b5e"
+Parent: "8868bc3b-a395-6db9-0bdb-ec692a568730"
+Template: "8868bc3b-a395-6db9-0bdb-ec692a568730"
+Path: "/sitecore/templates/Project/pool/Components/ServicesGrid/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6faf6bdb-ee97-bf6c-6d2c-72c3e86a7b41"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "504c364a-8dee-1ec7-72e9-1c1a5de93b15"
