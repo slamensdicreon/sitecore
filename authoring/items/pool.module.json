@@ -21,33 +21,38 @@
       {
         "name": "pool.site.header",
         "path": "/sitecore/content/advanced-sitecore/future/Data/Pool Header",
-        "allowedPushOperations": "CreateUpdateAndDelete"
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
       },
       {
         "name": "pool.site.footer",
         "path": "/sitecore/content/advanced-sitecore/future/Data/Pool Footer",
-        "allowedPushOperations": "CreateUpdateAndDelete"
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
       },
       {
         "name": "pool.site.partial.header",
         "path": "/sitecore/content/advanced-sitecore/future/Presentation/Partial Designs/Pool Header",
-        "allowedPushOperations": "CreateUpdateAndDelete"
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
       },
       {
         "name": "pool.site.partial.footer",
         "path": "/sitecore/content/advanced-sitecore/future/Presentation/Partial Designs/Pool Footer",
-        "allowedPushOperations": "CreateUpdateAndDelete"
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
       },
       {
         "name": "pool.site.pagedesign",
         "path": "/sitecore/content/advanced-sitecore/future/Presentation/Page Designs/Pool Default",
-        "allowedPushOperations": "CreateUpdateAndDelete"
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
       },
       {
         "name": "pool.pages",
         "path": "/sitecore/content/advanced-sitecore/future/Home",
         "scope": "ItemAndDescendants",
-        "allowedPushOperations": "CreateUpdateAndDelete"
+        "allowedPushOperations": "CreateAndUpdate"
       },
       {
         "name": "pool.media",
