@@ -27,6 +27,12 @@
         "name": "pool.pages",
         "path": "/sitecore/content/advanced-sitecore/future/Home",
         "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "pool.layout",
+        "path": "/sitecore/layout/Layouts/Project/pool",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete"
       }
     ]
   }

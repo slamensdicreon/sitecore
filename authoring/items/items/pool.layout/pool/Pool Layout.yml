@@ -1,0 +1,27 @@
+---
+ID: "45b9ea66-8e24-9db6-7529-d00c4e31c2f4"
+Parent: "9302ef0b-6c08-60d8-7edb-c9ce82b3b6ef"
+Template: "3a45a723-64ee-4919-9d41-02fd40fd1466"
+Path: "/sitecore/layout/Layouts/Project/pool/Pool Layout"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a0867df1-1ca7-c1ed-423c-aad8fb0bba36"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Pool Layout
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+      Hint: Path
+      Value: /Views/Shared/_PoolLayout.cshtml
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a323a8b-45e8-a6c4-7cba-fb1531381ef5"
