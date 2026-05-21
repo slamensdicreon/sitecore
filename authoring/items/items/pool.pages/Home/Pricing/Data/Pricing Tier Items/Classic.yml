@@ -1,0 +1,48 @@
+---
+ID: "c2e49cda-72f3-3264-e046-59f6a10346a2"
+Parent: "d09eb4f5-64a1-dd67-a23d-0bcaf151557a"
+Template: "94da788f-b39b-cb91-9973-7816edd03b52"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Pricing/Data/Pricing Tier Items/Classic"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "3fd25e0f-eee4-3ac7-8800-386a1cb303aa"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Classic
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "97928d36-a634-51ac-dd7f-6fce0589427a"
+      Hint: name
+      Value: Classic
+    - ID: "b56cb521-604c-74e6-dcf6-50d64571e02e"
+      Hint: price
+      Value: from $165,000
+    - ID: "df7e76a1-9b83-55c5-5edf-c87014a8b0c5"
+      Hint: highlight
+      Value: Most chosen
+    - ID: "f4885cac-648f-eb2e-3f64-9579f8ba8acf"
+      Hint: description
+      Value: Up to 18 × 36 ft. The everyday family pool, finished to atelier standard.
+    - ID: "7a8c2f1b-613f-d98e-eadc-866f454ddf6f"
+      Hint: features
+      Value: "<ul><li>European pebble finish, choice of palette</li><li>Color-tunable architectural lighting</li><li>Salt-chlorine sanitization + UV polish</li><li>Integrated automation app</li></ul>"
+    - ID: "ecc6dd8d-bb4b-3acc-11dd-d3e8d5f0718c"
+      Hint: ctaLabel
+      Value: Begin a Conversation
+    - ID: "b8b374ec-e555-1b95-a990-7bd46e9c140f"
+      Hint: ctaHref
+      Value: /contact
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f34d4b78-5268-2312-3f5d-4843e2a67fea"

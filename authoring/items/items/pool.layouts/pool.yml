@@ -1,0 +1,16 @@
+---
+ID: "87302a34-11c8-c147-de03-1eb1fba2f484"
+Parent: "73919d81-6448-2b4f-bfe0-b91b755511b5"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: "/sitecore/layout/Layouts/Project/pool"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11ae11f0-7c63-56d4-9f81-ac9942b22a7e"

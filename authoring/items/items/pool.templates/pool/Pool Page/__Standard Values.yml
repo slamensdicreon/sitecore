@@ -7,6 +7,12 @@ SharedFields:
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "97052cd3-3976-20eb-30ae-4c38dc588d62"
+- ID: "f1a1fe9e-a60c-4ddb-a3a7-6f8e9ef93a37"
+  Hint: __Renderings
+  Value: '<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{45B9EA66-8E24-9DB6-7529-D00C4E31C2F4}" /></r>'
+- ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+  Hint: __Final Renderings
+  Value: '<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{45B9EA66-8E24-9DB6-7529-D00C4E31C2F4}" /></r>'
 Languages:
 - Language: en
   Versions:

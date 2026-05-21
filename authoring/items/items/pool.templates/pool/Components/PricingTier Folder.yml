@@ -1,29 +1,24 @@
 ---
-ID: "91246b0e-51d7-cf6e-703d-7213efbe6e75"
-Parent: "c7c2816a-0083-48eb-a3a2-ad830c984f1b"
+ID: "d676817a-1e24-502b-45e1-d0f9fd5f831c"
+Parent: "5596c505-8e9f-4be5-825f-22794f814215"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Project/pool/Pool Page"
+Path: "/sitecore/templates/Project/pool/Components/PricingTier Folder"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: office/32x32/document_globe.png
-- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
-  Hint: __Base template
-  Value: |
-    {47151711-26CA-434E-8132-D3E0B7D26683}
-    {6650FB34-7EA1-4245-A919-5CC0F002A6D7}
+  Value: Office/32x32/folder_document.png
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "612a1b32-15f5-22ba-fbed-b0d7ab01fbd4"
+  Value: "8608ce6e-f280-eb1e-8340-5fcbfe188440"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: "{67507AA2-1764-B1F9-4992-D9A70AC83755}"
+  Value: "{5F64E8CF-EA38-D2AA-F649-36779F153DDB}"
 Languages:
 - Language: en
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: Pool Page
+    Value: PricingTier Folder
   Versions:
   - Version: 1
     Fields:
@@ -32,4 +27,4 @@ Languages:
       Value: 20260520T000000Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e6a65c68-532b-bd36-eedc-967f4bb936c9"
+      Value: "c209a60a-fe5f-589c-0597-b35c4c3f3b9d"

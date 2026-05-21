@@ -1,0 +1,20 @@
+---
+ID: "f3d03315-e0fc-978d-5017-e014d2811062"
+Parent: "6b83c679-c552-0a11-6df2-896cdd85cc1d"
+Template: "6b83c679-c552-0a11-6df2-896cdd85cc1d"
+Path: "/sitecore/templates/Project/pool/Components/Pricing Tier Item Folder/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2539c419-9490-d815-ec5d-6b55c4a0034d"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bebeab33-c222-ebab-0f17-a6e0df83f9c6"

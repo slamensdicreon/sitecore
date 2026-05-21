@@ -1,0 +1,27 @@
+---
+ID: "d09eb4f5-64a1-dd67-a23d-0bcaf151557a"
+Parent: "e371b05d-ca89-5fa0-53df-f947c4a86e27"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Pricing/Data/Pricing Tier Items"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b33aa87e-bf02-911e-2d66-299309ffaf9e"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Pricing Tier Items
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a35c20d1-066e-56f5-50c7-cedcc76ec244"

@@ -1,0 +1,16 @@
+---
+ID: "2e940946-0d3b-984d-4e80-e25e03ac7b78"
+Parent: "94da788f-b39b-cb91-9973-7816edd03b52"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/pool/Components/Pricing Tier Item/Pricing Tier Item"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c01bb2b5-df3d-5338-864b-57c15145f45a"

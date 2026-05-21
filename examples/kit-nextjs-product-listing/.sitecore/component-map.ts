@@ -126,6 +126,8 @@ import * as PoolSectionprops from 'src/components/pool/sitecore/PoolSection.prop
 import * as PoolSectiondev from 'src/components/pool/sitecore/PoolSection.dev';
 import * as PoolProcessStepsprops from 'src/components/pool/sitecore/PoolProcessSteps.props';
 import * as PoolProcessStepsdev from 'src/components/pool/sitecore/PoolProcessSteps.dev';
+import * as PoolPricingTierprops from 'src/components/pool/sitecore/PoolPricingTier.props';
+import * as PoolPricingTierdev from 'src/components/pool/sitecore/PoolPricingTier.dev';
 import * as PoolHeroprops from 'src/components/pool/sitecore/PoolHero.props';
 import * as PoolHerodev from 'src/components/pool/sitecore/PoolHero.dev';
 import * as PoolHeaderprops from 'src/components/pool/sitecore/PoolHeader.props';
@@ -408,6 +410,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['PoolServicesGrid', { ...PoolServicesGridprops, ...PoolServicesGriddev }],
   ['PoolSection', { ...PoolSectionprops, ...PoolSectiondev }],
   ['PoolProcessSteps', { ...PoolProcessStepsprops, ...PoolProcessStepsdev }],
+  ['PoolPricingTier', { ...PoolPricingTierprops, ...PoolPricingTierdev }],
   ['PoolHero', { ...PoolHeroprops, ...PoolHerodev }],
   ['PoolHeader', { ...PoolHeaderprops, ...PoolHeaderdev }],
   ['PoolGallery', { ...PoolGalleryprops, ...PoolGallerydev }],
