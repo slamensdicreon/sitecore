@@ -119,7 +119,20 @@ export function formatUSD(n: number): string {
   });
 }
 
-export const PRICING_TIERS = [
+export type PricingTier = {
+  id: string;
+  name: string;
+  from: number;
+  summary: string;
+  features: string[];
+  featured?: boolean;
+};
+
+/**
+ * T18: Emergency fallback only. Production reads `getPoolPricingTiers()` from
+ * `src/lib/pool-content.ts`, which fetches the same shape from Sitecore.
+ */
+export const EMERGENCY_FALLBACK_PRICING_TIERS: PricingTier[] = [
   {
     id: 'plunge',
     name: 'Plunge',

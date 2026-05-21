@@ -1,8 +1,9 @@
 import Link from 'next/link';
-import { SERVICES } from './data';
+import { SERVICES as FALLBACK_SERVICES, type Service } from './data';
 import { Section } from './Section';
 
 interface ServicesGridProps {
+  services?: Service[];
   limit?: number;
   eyebrow?: string;
   title?: React.ReactNode;
@@ -10,6 +11,7 @@ interface ServicesGridProps {
 }
 
 export function ServicesGrid({
+  services,
   limit,
   eyebrow = 'The Atelier',
   title = (
@@ -20,7 +22,8 @@ export function ServicesGrid({
   ),
   intro = 'Six disciplines, one team. Every pool we build is one we then quietly care for — which is why we treat each first decision as if we will live with it for decades.',
 }: ServicesGridProps) {
-  const items = limit ? SERVICES.slice(0, limit) : SERVICES;
+  const source = services ?? FALLBACK_SERVICES;
+  const items = limit ? source.slice(0, limit) : source;
   return (
     <Section eyebrow={eyebrow} title={title} intro={intro} id="services">
       <div className="grid gap-6 md:gap-7 md:grid-cols-2 lg:grid-cols-3">

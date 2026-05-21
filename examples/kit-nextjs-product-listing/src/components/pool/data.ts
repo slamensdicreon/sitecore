@@ -32,7 +32,13 @@ export type Service = {
   bullets: string[];
 };
 
-export const SERVICES: Service[] = [
+/**
+ * T18: Treated as an *emergency fallback* only. Production reads
+ * `getPoolServices()` from `src/lib/pool-content.ts`, which fetches the same
+ * shape from Sitecore Experience Edge. Keep this list authored-by-hand for
+ * offline dev and as a last-resort if Edge is unreachable.
+ */
+export const EMERGENCY_FALLBACK_SERVICES: Service[] = [
   {
     id: 'bespoke-design',
     title: 'Bespoke Design & Build',
@@ -248,3 +254,11 @@ export const FAQS = [
     a: '25-year structural shell warranty, 10-year finish warranty (plaster/pebble/glass), and manufacturer warranties on all equipment — extended to lifetime for active maintenance members.',
   },
 ];
+
+/**
+ * Alias kept for client components (Footer, ServicesGrid) that don't
+ * server-side-fetch. The async server route `app/(pool)/services/page.tsx`
+ * uses `getPoolServices()` from `src/lib/pool-content.ts` which falls back
+ * to this same array if Sitecore Edge is unreachable.
+ */
+export const SERVICES = EMERGENCY_FALLBACK_SERVICES;

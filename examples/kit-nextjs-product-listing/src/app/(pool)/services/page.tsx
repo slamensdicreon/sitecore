@@ -1,7 +1,7 @@
 import { Hero } from 'src/components/pool/Hero';
 import { ServicesGrid } from 'src/components/pool/ServicesGrid';
 import { Section } from 'src/components/pool/Section';
-import { SERVICES } from 'src/components/pool/data';
+import { getPoolServices } from 'src/lib/pool-content';
 import { ProcessSteps } from 'src/components/pool/ProcessSteps';
 import { CtaBanner } from 'src/components/pool/CtaBanner';
 
@@ -11,7 +11,8 @@ export const metadata = {
     'Bespoke pool design and build, renovation, white-glove maintenance, opening & closing, equipment & automation, diagnostics and repair.',
 };
 
-export default function ServicesPage() {
+export default async function ServicesPage() {
+  const SERVICES = await getPoolServices();
   return (
     <>
       <Hero
@@ -35,6 +36,7 @@ export default function ServicesPage() {
       />
 
       <ServicesGrid
+        services={SERVICES}
         eyebrow="What we make"
         title={
           <>

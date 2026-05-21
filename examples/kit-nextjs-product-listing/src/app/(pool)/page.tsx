@@ -1,5 +1,6 @@
 import { Hero } from 'src/components/pool/Hero';
 import { ServicesGrid } from 'src/components/pool/ServicesGrid';
+import { getPoolServices } from 'src/lib/pool-content';
 import { StatsBand } from 'src/components/pool/StatsBand';
 import { ProcessSteps } from 'src/components/pool/ProcessSteps';
 import { Gallery } from 'src/components/pool/Gallery';
@@ -8,7 +9,8 @@ import { Testimonials } from 'src/components/pool/Testimonials';
 import { FAQ } from 'src/components/pool/FAQ';
 import { CtaBanner } from 'src/components/pool/CtaBanner';
 
-export default function HomePage() {
+export default async function HomePage() {
+  const SERVICES = await getPoolServices();
   return (
     <>
       <Hero
@@ -26,7 +28,7 @@ export default function HomePage() {
           </>
         }
       />
-      <ServicesGrid limit={6} />
+      <ServicesGrid services={SERVICES} limit={6} />
       <StatsBand />
       <ProcessSteps />
       <Gallery />

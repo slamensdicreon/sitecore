@@ -4,7 +4,8 @@ import { Section } from 'src/components/pool/Section';
 import { CostCalculator } from 'src/components/pool/CostCalculator';
 import { FAQ } from 'src/components/pool/FAQ';
 import { CtaBanner } from 'src/components/pool/CtaBanner';
-import { PRICING_TIERS, formatUSD } from 'src/components/pool/pricing';
+import { formatUSD } from 'src/components/pool/pricing';
+import { getPoolPricingTiers } from 'src/lib/pool-content';
 
 export const metadata = {
   title: 'Pricing — CAELUM',
@@ -12,7 +13,8 @@ export const metadata = {
     'Transparent ranges for Plunge, Classic, and Signature bespoke pool builds. Use our calculator for a realistic estimate in two minutes.',
 };
 
-export default function PricingPage() {
+export default async function PricingPage() {
+  const PRICING_TIERS = await getPoolPricingTiers();
   return (
     <>
       <Hero
