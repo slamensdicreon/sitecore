@@ -51,7 +51,7 @@
       },
       {
         "name": "pool.media",
-        "path": "/sitecore/media library/Project",
+        "path": "/sitecore/media library/Project/pool",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateUpdateAndDelete"
       },

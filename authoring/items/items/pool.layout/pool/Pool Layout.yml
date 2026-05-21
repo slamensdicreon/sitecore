@@ -16,9 +16,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+    - ID: "0e7ad470-fa48-4cd6-9c97-21e25b13e9b6"
       Hint: Path
-      Value: /Views/Shared/_PoolLayout.cshtml
+      Value: /_layouts/pool-page.cshtml
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260521T000000Z
