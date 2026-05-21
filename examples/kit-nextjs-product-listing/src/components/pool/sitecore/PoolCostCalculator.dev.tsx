@@ -5,7 +5,7 @@
 // because they are application logic, not authored content.
 
 import { Text, RichText, Link } from '@sitecore-content-sdk/nextjs';
-import { CostCalculator as StandaloneCalculator } from '../CostCalculator';
+import { CalculatorBody } from '../CostCalculator';
 import type { PoolCostCalculatorProps } from './PoolCostCalculator.props';
 
 export const Default: React.FC<PoolCostCalculatorProps> = (props) => {
@@ -25,7 +25,7 @@ export const Default: React.FC<PoolCostCalculatorProps> = (props) => {
             />
           </div>
         )}
-        <StandaloneCalculator />
+        <CalculatorBody />
         {fields?.ctaLink?.value?.href && (
           <div className="mt-12 text-center">
             <Link field={fields.ctaLink} className="btn btn-gold">

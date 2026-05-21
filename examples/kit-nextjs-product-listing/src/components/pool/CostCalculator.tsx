@@ -12,7 +12,11 @@ import {
 import type { Finish, PoolType, SizeId } from './pricing';
 import { Section } from './Section';
 
-export function CostCalculator() {
+// Pure calculator body — inputs + estimate panel + form, with no outer
+// Section/header. Used by both the standalone `CostCalculator` (which wraps
+// it in a hardcoded Section for the `/pool` routes) and the Sitecore
+// `PoolCostCalculator` wrapper (which provides its own editable header).
+export function CalculatorBody() {
   const [typeId, setTypeId] = useState<PoolType['id']>('classic');
   const [sizeId, setSizeId] = useState<SizeId>('medium');
   const [finishId, setFinishId] = useState<Finish['id']>('pebble');
@@ -28,18 +32,7 @@ export function CostCalculator() {
     setAddOns((curr) => (curr.includes(id) ? curr.filter((x) => x !== id) : [...curr, id]));
 
   return (
-    <Section
-      id="calculator"
-      eyebrow="Investment, Transparent"
-      title={
-        <>
-          A realistic range in <em style={{ fontStyle: 'italic', color: 'var(--c-aqua)' }}>
-          under two minutes</em>.
-        </>
-      }
-      intro="Most quoted pool ranges are fiction. Ours are not — adjust the inputs below and you'll see what bespoke actually costs in 2026. We honor the upper bound in writing after a site visit."
-    >
-      <div className="grid lg:grid-cols-12 gap-8">
+    <div className="grid lg:grid-cols-12 gap-8">
         {/* INPUTS */}
         <div className="lg:col-span-7 space-y-10">
           <Field label="Pool Type">
@@ -180,7 +173,28 @@ export function CostCalculator() {
             )}
           </div>
         </aside>
-      </div>
+    </div>
+  );
+}
+
+// Standalone wrapper used by `src/app/(pool)/` — keeps the hardcoded
+// Section header for the non-Sitecore route. Sitecore pages use
+// `PoolCostCalculator` which provides its own editable header and renders
+// `CalculatorBody` directly.
+export function CostCalculator() {
+  return (
+    <Section
+      id="calculator"
+      eyebrow="Investment, Transparent"
+      title={
+        <>
+          A realistic range in <em style={{ fontStyle: 'italic', color: 'var(--c-aqua)' }}>
+          under two minutes</em>.
+        </>
+      }
+      intro="Most quoted pool ranges are fiction. Ours are not — adjust the inputs below and you'll see what bespoke actually costs in 2026. We honor the upper bound in writing after a site visit."
+    >
+      <CalculatorBody />
     </Section>
   );
 }
