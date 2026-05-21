@@ -1,0 +1,39 @@
+---
+ID: "0ebcd330-b739-dd21-4ec6-5901f95deecf"
+Parent: "d425ca0e-d4b1-9d64-57b8-642f5d99c979"
+Template: "acf70534-92b5-1cb7-4f15-ee55b8832e10"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Cost Calculators/Main Cost Calculator"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "53cf2b95-6d2a-289d-49cc-72d331e3bddc"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Main Cost Calculator
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "7d5e5530-239b-4141-d8a8-6c64b4e684fb"
+      Hint: eyebrow
+      Value: In two minutes
+    - ID: "0f120494-bce4-d908-20ab-4e5c73e151a3"
+      Hint: title
+      Value: "<p>An honest range, <em>before our first call.</em></p>"
+    - ID: "04cb1734-7abd-6953-7adf-c7e07e428709"
+      Hint: intro
+      Value: "<p>Choose form, size, finish, and features. Numbers tune live. Save or share when you are ready.</p>"
+    - ID: "021a5cf5-4ac5-6280-71ff-586939e0fdff"
+      Hint: ctaLabel
+      Value: Begin a Conversation
+    - ID: "33457119-2dec-66af-0372-418734b7be9c"
+      Hint: ctaLink
+      Value: "<link text=\"Begin a Conversation\" linktype=\"internal\" url=\"/contact\" anchor=\"\" target=\"\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2012f7ed-631c-3342-1a36-a1b6e3ea01a8"

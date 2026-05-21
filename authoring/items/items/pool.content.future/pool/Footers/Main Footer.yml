@@ -1,0 +1,57 @@
+---
+ID: "aa06bdb5-95c5-e1ac-bdaa-bdb83e037bbb"
+Parent: "7ca8b1e3-dc5d-3d03-eab0-e6f919fd1069"
+Template: "caf1a58f-84be-cebb-660e-00578030dfe9"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Footers/Main Footer"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "646d30fb-fe29-ffa8-63e1-96223a61289a"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Main Footer
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5b663f44-bf94-2baa-82e6-29e7907021c6"
+      Hint: brandName
+      Value: CAELUM
+    - ID: "8404fdb4-0147-e023-1f6f-93052bd82d90"
+      Hint: description
+      Value: "<p>Bespoke Pool Atelier. A South Florida atelier crafting custom pool architecture and white-glove stewardship.</p>"
+    - ID: "0494270d-b629-723f-6e00-6742146cd25f"
+      Hint: address
+      Value: 210 Ocean Boulevard · Palm Beach, FL
+    - ID: "885b82e0-285e-0246-25da-f4d961b26702"
+      Hint: hoursWeek
+      Value: Mon–Fri · 9am – 6pm
+    - ID: "e175268c-6b8f-9c1a-1ba7-ae6fa0cb1274"
+      Hint: hoursWeekend
+      Value: Sat · 10am – 4pm · Sun by appointment
+    - ID: "d496e962-baca-d740-0e3f-c2b12dce0224"
+      Hint: phone
+      Value: +1 (561) 555-0142
+    - ID: "5c608a51-0dea-a42d-fc5c-5fb892dad1b4"
+      Hint: email
+      Value: studio@caelumpools.com
+    - ID: "de9c3316-2322-2224-b068-ac9e7dcf459d"
+      Hint: copyright
+      Value: © 2026 CAELUM. All rights reserved.
+    - ID: "36f0142d-7e6c-e7a9-9312-b683802e4965"
+      Hint: instagramLink
+      Value: "<link text=\"Instagram\" linktype=\"external\" url=\"https://instagram.com/\" anchor=\"\" target=\"_blank\" />"
+    - ID: "c18628ca-0db0-6694-b660-3bf4b84a87fb"
+      Hint: pinterestLink
+      Value: "<link text=\"Pinterest\" linktype=\"external\" url=\"https://pinterest.com/\" anchor=\"\" target=\"_blank\" />"
+    - ID: "635c843e-9ce2-df90-6cc5-3226af989123"
+      Hint: houzzLink
+      Value: "<link text=\"Houzz\" linktype=\"external\" url=\"https://houzz.com/\" anchor=\"\" target=\"_blank\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c221c4bc-d398-f487-7d0c-a57c3fbd7537"

@@ -1,0 +1,42 @@
+---
+ID: "8555c991-8698-c257-6e4f-db93ae3ce330"
+Parent: "38f66d93-ccaf-166d-ed1f-dc28a8c187e0"
+Template: "5dabf59f-f91f-38b4-aceb-143ac3d8d5d7"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Service Items/Equipment & Automation"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2b06d743-f282-1235-ab99-bea4d55867cf"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Equipment & Automation
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4c97a68b-4943-bc79-a38e-50f225c1f4e2"
+      Hint: title
+      Value: Equipment & Automation
+    - ID: "8bc74104-9638-62d0-de7e-e212fdcb3211"
+      Hint: slug
+      Value: equipment
+    - ID: "79ee8da7-db9e-b103-d8b2-49054ae5d321"
+      Hint: blurb
+      Value: Smart pump, heater, lighting, and chemistry automation — controlled from your phone.
+    - ID: "240b538e-0f6e-0530-2b3f-b5236a77ef6a"
+      Hint: description
+      Value: "<p>We design integrated equipment pads that are quiet, efficient, and beautiful to look at — and connect them to a single app you actually want to open.</p>"
+    - ID: "9a94b85b-58c8-cf65-9f45-9befbb0ed5cd"
+      Hint: bullets
+      Value: "<ul><li>Pentair, Jandy, and Hayward authorized installer</li><li>Color-tunable LED lighting scenes</li><li>Salt-chlorine, UV, and ozone sanitization</li><li>Single-app control of pump, heat, light, and water features</li></ul>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c6e877b-8ae4-9575-4e51-710662f7355e"

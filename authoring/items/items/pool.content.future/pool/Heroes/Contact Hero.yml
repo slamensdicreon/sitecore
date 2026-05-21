@@ -1,0 +1,36 @@
+---
+ID: "0fd8a225-8c6f-06c6-710f-27e19f5c03c8"
+Parent: "0b448880-a64f-89a9-c90e-acb3e8e6ce4f"
+Template: "6b5c8320-afdf-4bd7-8c4e-6265e35086b5"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Heroes/Contact Hero"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "11cf3dc2-104f-ae43-5ed4-c64686c77f7f"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Contact Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "86320955-8dc9-4db1-9476-5b29cec2331e"
+      Hint: eyebrow
+      Value: Begin a Conversation
+    - ID: "4fee9a4a-f96f-4819-90b3-c3d0b88aa111"
+      Hint: title
+      Value: "<p>We design <em>three pools a year</em>.<br/>Yours could be one of them.</p>"
+    - ID: "fad4bb8e-e389-4e21-a21b-c847c382a5b0"
+      Hint: subtitle
+      Value: "<p>Tell us a little about the project. A designer will reply within one business day with three potential site visits — no automated emails, no sales sequences.</p>"
+    - ID: "f88a12b7-44d3-49c5-a087-34882a8052ab"
+      Hint: fullViewport
+      Value: ""
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e26ae75e-1f82-1006-2304-ad5d7a392cf5"

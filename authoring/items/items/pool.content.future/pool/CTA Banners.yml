@@ -1,0 +1,27 @@
+---
+ID: "c3d4ffab-a46c-22b8-1de7-dd8f9f052f77"
+Parent: "892d7865-aceb-ae00-d3c1-78693ae65ee2"
+Template: "b5934a6a-8c66-36b9-c636-a6665ab091d1"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/CTA Banners"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "788a4484-0188-a1f6-5619-92a6f90ec914"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: CTA Banners
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8732f50e-217b-d149-41eb-a6082f465d1f"

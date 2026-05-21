@@ -1,0 +1,27 @@
+---
+ID: "c9f8496a-b9ee-ff20-b097-a735a9df4dab"
+Parent: "892d7865-aceb-ae00-d3c1-78693ae65ee2"
+Template: "561f2b90-7fde-a6b9-f86e-d0bfea2bdccb"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Sections"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "becd9f51-fe13-17f3-7b46-57e3e345b6f2"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sections
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "27710534-ab0b-8b4b-082d-1a8cd8d0d05d"

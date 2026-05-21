@@ -1,0 +1,33 @@
+---
+ID: "e53a819d-3a29-229a-a796-689e07fa55f5"
+Parent: "bedecec3-88e3-2689-aef7-53df0fb70297"
+Template: "48b6eba4-697a-f7b3-333c-66653e3b30e7"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Gallery Image Items/Image 2"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d70de31e-c186-65ae-b916-011308b556d3"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Image 2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8b877ca0-3032-9a1c-a142-045d63ca6155"
+      Hint: alt
+      Value: Sunlit water close-up, glass tile
+    - ID: "94e0e221-ad99-5796-4414-1bf3f500dd98"
+      Hint: tall
+      Value: ""
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9bd5d73b-56aa-c775-6b60-64f9ceef8b98"

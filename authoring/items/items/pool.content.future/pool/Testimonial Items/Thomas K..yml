@@ -1,0 +1,36 @@
+---
+ID: "0de3ab7f-755f-cf90-8493-5bedaffe71dc"
+Parent: "21f72b9e-f0a9-433b-6873-f64e593c15d2"
+Template: "953b6d9e-e3bd-5ecb-8ec3-7cabfba7ad5c"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Testimonial Items/Thomas K."
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f6d3e98c-63b3-a68f-453c-f7868a3e6b6f"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Thomas K.
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4695b753-4826-f728-5111-4a59c56398a5"
+      Hint: quote
+      Value: Their maintenance program is the only one I recommend to friends. One dedicated technician for four years now. I never think about my pool.
+    - ID: "da2c1878-6197-8ae3-bb23-7da8dae584fe"
+      Hint: author
+      Value: Thomas K.
+    - ID: "cfc8b1df-9e57-0f91-3afd-33ab14584048"
+      Hint: role
+      Value: Jupiter Island · Maintenance member
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ffff055-ad1a-94bf-3567-b10a1d450d17"

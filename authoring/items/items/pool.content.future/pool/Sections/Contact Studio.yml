@@ -1,0 +1,39 @@
+---
+ID: "b78f55c0-5d24-efd5-399c-011e20ac518d"
+Parent: "c9f8496a-b9ee-ff20-b097-a735a9df4dab"
+Template: "0c05fde9-5849-bef9-db07-8dc89cca1868"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Sections/Contact Studio"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "05d3f783-d1ad-f080-1129-db38fc2bea33"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Contact Studio
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3bc1adcc-555d-174d-a16c-9ba5e7a93dae"
+      Hint: eyebrow
+      Value: Studio
+    - ID: "6f8358c1-a252-1307-d7fb-0b546d0e70ea"
+      Hint: title
+      Value: "<p>Visit, call, or write.</p>"
+    - ID: "6e7785c5-3c03-ff23-adae-aaf30f45522a"
+      Hint: intro
+      Value: "<p>210 Ocean Boulevard · Palm Beach, FL. By appointment. Street parking and valet at the door.</p>"
+    - ID: "a28b6d04-46ed-d9a5-8cea-0f006290cd03"
+      Hint: body
+      Value: "<p><strong>Direct.</strong> +1 (561) 555-0142 · studio@caelumpools.com</p><p><strong>Hours.</strong> Mon–Fri · 9am – 6pm. Sat · 10am – 4pm · Sun by appointment.</p><p><strong>Service area.</strong> Palm Beach · Martin · Broward · Miami-Dade counties. Select destination projects accepted worldwide.</p>"
+    - ID: "26e0b86e-d832-d20c-85ca-7e2d7581ee46"
+      Hint: align
+      Value: left
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63287e0e-32ee-947a-1f44-cbec2cc944e9"

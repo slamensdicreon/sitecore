@@ -1,0 +1,42 @@
+---
+ID: "25fa4810-547d-74c6-6316-030c798c911a"
+Parent: "38f66d93-ccaf-166d-ed1f-dc28a8c187e0"
+Template: "5dabf59f-f91f-38b4-aceb-143ac3d8d5d7"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Service Items/Renovation & Re-Imagining"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e34a47e0-8261-7b67-990c-b86a901bcf7f"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Renovation & Re-Imagining
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4c97a68b-4943-bc79-a38e-50f225c1f4e2"
+      Hint: title
+      Value: Renovation & Re-Imagining
+    - ID: "8bc74104-9638-62d0-de7e-e212fdcb3211"
+      Hint: slug
+      Value: renovation
+    - ID: "79ee8da7-db9e-b103-d8b2-49054ae5d321"
+      Hint: blurb
+      Value: Transform an aging pool into a contemporary statement — new finishes, geometry, lighting, and equipment.
+    - ID: "240b538e-0f6e-0530-2b3f-b5236a77ef6a"
+      Hint: description
+      Value: "<p>Most pools age out of style long before they age out of structure. We resurface, reshape, and re-engineer existing pools into spaces that feel brand new.</p>"
+    - ID: "9a94b85b-58c8-cf65-9f45-9befbb0ed5cd"
+      Hint: bullets
+      Value: "<ul><li>Plaster, pebble, and glass-tile resurfacing</li><li>Coping, decking, and waterline redesign</li><li>Equipment modernization (variable-speed, salt, automation)</li><li>Energy audits with payback projections</li></ul>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2929a4df-4f7d-30ab-eb95-4e2460fc5e8e"

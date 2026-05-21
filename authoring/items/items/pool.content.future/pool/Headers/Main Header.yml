@@ -1,0 +1,60 @@
+---
+ID: "35d02221-07fb-1721-87ec-29565bd8ee6e"
+Parent: "ee6aea7a-0a7b-8709-2379-82ef886be499"
+Template: "93d3c03e-b6ac-1ff9-1a6b-27404aefaa11"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Headers/Main Header"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6d0652d4-46c0-ba32-a838-f280d4ef95c5"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Main Header
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "6804da31-0fb4-4064-f7c8-1f1422d2c182"
+      Hint: brandName
+      Value: CAELUM
+    - ID: "94dd3991-0257-2671-79b9-be275ed2b83a"
+      Hint: tagline
+      Value: Bespoke Pool Atelier
+    - ID: "4c28dd4c-3a0b-8720-ebce-9f1d8febffd9"
+      Hint: ctaLabel
+      Value: Begin a Conversation
+    - ID: "e25aded5-3e87-e594-139a-5ef735d24a2a"
+      Hint: ctaLink
+      Value: "<link text=\"Begin a Conversation\" linktype=\"internal\" url=\"/contact\" anchor=\"\" target=\"\" />"
+    - ID: "e95252db-fd9f-2aa5-fb69-66f2e5d02598"
+      Hint: nav1Label
+      Value: Atelier
+    - ID: "fe687a95-a4ec-9498-c5a5-f5817ace2ee1"
+      Hint: nav1Link
+      Value: "<link text=\"Atelier\" linktype=\"internal\" url=\"/\" anchor=\"\" target=\"\" />"
+    - ID: "20ca89dc-ffb4-4278-938a-9dbdb08f9f04"
+      Hint: nav2Label
+      Value: Services
+    - ID: "f6de4173-cb2a-3121-627e-a8272baa9706"
+      Hint: nav2Link
+      Value: "<link text=\"Services\" linktype=\"internal\" url=\"/services\" anchor=\"\" target=\"\" />"
+    - ID: "8162dcd1-4cd9-034d-e62f-b4986947448f"
+      Hint: nav3Label
+      Value: Pricing
+    - ID: "c001203a-b007-b442-2a7f-329dafb6faac"
+      Hint: nav3Link
+      Value: "<link text=\"Pricing\" linktype=\"internal\" url=\"/pricing\" anchor=\"\" target=\"\" />"
+    - ID: "5834ede9-7d38-8988-ad85-8e1d8706108e"
+      Hint: nav4Label
+      Value: Contact
+    - ID: "0f0c21ec-923c-0894-cfda-fcd2e6b1c503"
+      Hint: nav4Link
+      Value: "<link text=\"Contact\" linktype=\"internal\" url=\"/contact\" anchor=\"\" target=\"\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b96a9087-f809-d44d-9041-c3032067f953"

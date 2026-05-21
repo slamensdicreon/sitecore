@@ -1,0 +1,33 @@
+---
+ID: "04f57c18-dae1-f4df-0dab-b964681784d2"
+Parent: "3767db92-718c-a5a2-7684-482c8a812449"
+Template: "82776d13-b425-e257-ffe2-5eabb99c357b"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/FAQs/Main FAQ"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "3f3e0f1c-be83-6d29-930d-95f53317a480"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Main FAQ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "322942a3-6062-740d-44d5-70c174936a45"
+      Hint: eyebrow
+      Value: Common questions
+    - ID: "4224c491-6d8d-bc5d-bbb4-e1871347a7d3"
+      Hint: title
+      Value: "<p>Answers we wish <em>everyone asked.</em></p>"
+    - ID: "2f6351d3-0a40-0d7e-9678-aa36e47d4807"
+      Hint: items
+      Value: "{EFA522DB-2EAB-6424-4B61-CC4913EF63E5}|{316EB4F6-2187-BE20-1B9E-3EDA4200FD33}|{91C564A2-5C86-AFD9-3759-8C2F42694DEB}|{64E6D02F-C0AA-BD84-315C-857380956AAD}|{C845C1E7-005A-471A-9856-057B102894C9}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea4f7018-0cb9-c4b4-40c8-6fee934af27a"

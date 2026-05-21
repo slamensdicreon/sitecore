@@ -1,0 +1,42 @@
+---
+ID: "703c4ea9-e116-2a71-52a7-02ed3526bf65"
+Parent: "0b448880-a64f-89a9-c90e-acb3e8e6ce4f"
+Template: "6b5c8320-afdf-4bd7-8c4e-6265e35086b5"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Heroes/Services Hero"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "73e20305-547f-81b2-bd68-57eb8a34b3bd"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Services Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "86320955-8dc9-4db1-9476-5b29cec2331e"
+      Hint: eyebrow
+      Value: The Practice
+    - ID: "4fee9a4a-f96f-4819-90b3-c3d0b88aa111"
+      Hint: title
+      Value: "<p>Six disciplines. <em>One atelier.</em></p>"
+    - ID: "fad4bb8e-e389-4e21-a21b-c847c382a5b0"
+      Hint: subtitle
+      Value: "<p>We design, build, restore, and care for the pool in the same studio. That continuity is what makes our work last — and how we hold ourselves accountable across decades.</p>"
+    - ID: "f88a12b7-44d3-49c5-a087-34882a8052ab"
+      Hint: fullViewport
+      Value: ""
+    - ID: "0557a619-febe-4196-838f-9fd11d68b0ec"
+      Hint: primaryCta
+      Value: "<link text=\"See Pricing\" linktype=\"internal\" url=\"/pricing\" anchor=\"\" target=\"\" />"
+    - ID: "6c69b794-e76c-4680-8b70-9b4ea5f11848"
+      Hint: secondaryCta
+      Value: "<link text=\"Begin a Conversation\" linktype=\"internal\" url=\"/contact\" anchor=\"\" target=\"\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9dc45ea6-7595-525f-0fdd-b327f8c4d856"

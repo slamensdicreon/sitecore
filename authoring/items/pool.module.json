@@ -17,6 +17,16 @@
         "name": "pool.placeholderSettings",
         "path": "/sitecore/Layout/Placeholder Settings/Project/pool",
         "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "pool.content.future",
+        "path": "/sitecore/content/advanced-sitecore/future/Data/pool",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "pool.pages",
+        "path": "/sitecore/content/advanced-sitecore/future/Home",
+        "allowedPushOperations": "CreateUpdateAndDelete"
       }
     ]
   }

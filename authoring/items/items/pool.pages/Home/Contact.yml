@@ -1,0 +1,35 @@
+---
+ID: "3249992d-6927-b5a2-1e72-a6f9febcfb2d"
+Parent: "3487795e-36d2-4ce1-ba4f-a6a7dc4209ee"
+Template: "91246b0e-51d7-cf6e-703d-7213efbe6e75"
+Path: "/sitecore/content/advanced-sitecore/future/Home/Contact"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8afed9cf-6ef9-99b5-804c-c4742e6c0a42"
+- ID: "f1a1fe9e-a60c-4ddb-a3a7-6f8e9ef93a37"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{45B9EA66-8E24-9DB6-7529-D00C4E31C2F4}"><r id="{34B5DF80-1086-4A96-8FCB-4907BF18F1CD}" uid="{12493EF6-0DFB-A580-06E2-DEC5233F6186}" s:par="" s:ds="{35D02221-07FB-1721-87EC-29565BD8EE6E}" s:ph="pool-body" /><r id="{45EA187C-14DF-4D82-B6A4-4BEBE2090A75}" uid="{D4B704ED-E00A-4C7C-9C8C-84CD257B55A6}" s:par="" s:ds="{0FD8A225-8C6F-06C6-710F-27E19F5C03C8}" s:ph="pool-body" /><r id="{BB7DC2AA-9490-458E-9FD2-7DCA444672BC}" uid="{0E0260DD-FE9F-225F-EE74-734B967E71F4}" s:par="" s:ds="{B78F55C0-5D24-EFD5-399C-011E20AC518D}" s:ph="pool-body" /><r id="{7CB7E01A-E442-4E64-B1A4-FEA07BD9C8A5}" uid="{E425322B-84C9-54E9-2A27-131B152E8DDD}" s:par="" s:ds="{AA06BDB5-95C5-E1AC-BDAA-BDB83E037BBB}" s:ph="pool-body" /></d></r>
+- ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+  Hint: __Final Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{45B9EA66-8E24-9DB6-7529-D00C4E31C2F4}"><r id="{34B5DF80-1086-4A96-8FCB-4907BF18F1CD}" uid="{12493EF6-0DFB-A580-06E2-DEC5233F6186}" s:par="" s:ds="{35D02221-07FB-1721-87EC-29565BD8EE6E}" s:ph="pool-body" /><r id="{45EA187C-14DF-4D82-B6A4-4BEBE2090A75}" uid="{D4B704ED-E00A-4C7C-9C8C-84CD257B55A6}" s:par="" s:ds="{0FD8A225-8C6F-06C6-710F-27E19F5C03C8}" s:ph="pool-body" /><r id="{BB7DC2AA-9490-458E-9FD2-7DCA444672BC}" uid="{0E0260DD-FE9F-225F-EE74-734B967E71F4}" s:par="" s:ds="{B78F55C0-5D24-EFD5-399C-011E20AC518D}" s:ph="pool-body" /><r id="{7CB7E01A-E442-4E64-B1A4-FEA07BD9C8A5}" uid="{E425322B-84C9-54E9-2A27-131B152E8DDD}" s:par="" s:ds="{AA06BDB5-95C5-E1AC-BDAA-BDB83E037BBB}" s:ph="pool-body" /></d></r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Contact
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddda9ac4-3234-640d-909a-0162415d8427"

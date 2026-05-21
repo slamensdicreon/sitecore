@@ -1,0 +1,27 @@
+---
+ID: "bedecec3-88e3-2689-aef7-53df0fb70297"
+Parent: "892d7865-aceb-ae00-d3c1-78693ae65ee2"
+Template: "c76a1140-e632-c804-9837-02715b78d6a8"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Gallery Image Items"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b9b9f53c-6f5b-382e-9839-e1eb5871d072"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Gallery Image Items
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4d08b3d-e2cd-0512-fc17-99c3935f55b3"

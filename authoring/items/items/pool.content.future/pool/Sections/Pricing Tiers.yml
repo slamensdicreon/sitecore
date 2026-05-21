@@ -1,0 +1,42 @@
+---
+ID: "6015853d-4c52-b9a5-92e1-dee0e6accec9"
+Parent: "c9f8496a-b9ee-ff20-b097-a735a9df4dab"
+Template: "0c05fde9-5849-bef9-db07-8dc89cca1868"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Sections/Pricing Tiers"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f33680db-5566-7cc8-1331-1eca85fa95bd"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Pricing Tiers
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3bc1adcc-555d-174d-a16c-9ba5e7a93dae"
+      Hint: eyebrow
+      Value: Three Tiers
+    - ID: "6f8358c1-a252-1307-d7fb-0b546d0e70ea"
+      Hint: title
+      Value: "<p>A range of <em>commitments</em> — none of them small.</p>"
+    - ID: "6e7785c5-3c03-ff23-adae-aaf30f45522a"
+      Hint: intro
+      Value: "<p>Most pools we build fall into one of three forms. All are bespoke; the tier simply reflects ambition and footprint.</p>"
+    - ID: "a28b6d04-46ed-d9a5-8cea-0f006290cd03"
+      Hint: body
+      Value: |
+        <p><strong>Plunge — from $95,000.</strong> Up to 14 × 28 ft. Hand-polished plaster. Single-color LED lighting. Variable-speed pump &amp; cartridge filter. Standard equipment pad.</p>
+        <p><strong>Classic — from $165,000 · most chosen.</strong> Up to 18 × 36 ft. European pebble finish, choice of palette. Color-tunable architectural lighting. Salt-chlorine sanitization + UV polish. Integrated automation app.</p>
+        <p><strong>Signature — from $285,000.</strong> Vanishing edge or custom geometry. Italian glass tile waterline + accents. Integrated spa with spillway. Fire &amp; water feature pairing. Concierge maintenance — first year complimentary.</p>
+    - ID: "26e0b86e-d832-d20c-85ca-7e2d7581ee46"
+      Hint: align
+      Value: left
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0a960a8-3ef7-3aef-85f2-42f54e7b3bb5"

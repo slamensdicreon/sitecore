@@ -1,0 +1,33 @@
+---
+ID: "a4f905f1-998e-2154-7d14-b2e6188f73bc"
+Parent: "8fd11ad9-26d4-fb2a-69d5-18b35b01c5a2"
+Template: "b7465371-94a1-e76e-a735-198de2857ac3"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Stats Bands/Main Stats Band"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e83f7fc1-465f-3dc0-b9ca-7d990e8550f3"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Main Stats Band
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0166cf10-206b-9a33-d686-7e8decca15f0"
+      Hint: eyebrow
+      Value: By the numbers
+    - ID: "107e8d68-4452-0771-e8a3-558313429532"
+      Hint: title
+      Value: "<p>A practice measured in <em>decades.</em></p>"
+    - ID: "53874ea0-2765-19e3-490d-0678bc6528d8"
+      Hint: items
+      Value: "{0DD0B4C7-8D1A-0AA9-01CA-A95738969D05}|{7C942135-3C56-6C53-6C1F-F54C077720C3}|{B7F8A3C6-E7B8-65BD-1676-522EBDE74397}|{9A5E7713-7254-DFF6-1F04-8C889EF28921}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "03bd76db-94a1-5225-356f-68276a2cf927"

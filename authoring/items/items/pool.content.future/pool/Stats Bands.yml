@@ -1,0 +1,27 @@
+---
+ID: "8fd11ad9-26d4-fb2a-69d5-18b35b01c5a2"
+Parent: "892d7865-aceb-ae00-d3c1-78693ae65ee2"
+Template: "4f87bc61-dcf0-e7cf-dbcd-3178d2ca1a84"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/Stats Bands"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f9a37f45-4c54-8f28-2885-2019da9011fe"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Stats Bands
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4015292e-ebcd-25a8-cd15-2cde488fcb1a"

@@ -1,0 +1,33 @@
+---
+ID: "91c564a2-5c86-afd9-3759-8c2f42694deb"
+Parent: "bc125fb1-57a6-efce-02ad-0b7e64425297"
+Template: "b9732da4-5df2-c52d-b41a-42e5e6b0df86"
+Path: "/sitecore/content/advanced-sitecore/future/Data/pool/FAQ Items/Do you take on smaller renovations"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8bea4deb-8489-33eb-2f66-75e660d457c2"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Do you take on smaller renovations
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "d3be487d-1595-da57-6be7-2b259a64934a"
+      Hint: question
+      Value: Do you take on smaller renovations?
+    - ID: "430de261-a277-decd-7ff5-29c62ead9717"
+      Hint: answer
+      Value: "<p>Yes. Renovations begin at $42,000 and can be staged across seasons. We are equally invested in a thoughtful resurface as we are in a ground-up build.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93857e7d-174e-ce11-7945-fbb19cb7cf3b"
