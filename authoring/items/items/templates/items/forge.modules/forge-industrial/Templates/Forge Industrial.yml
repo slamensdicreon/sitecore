@@ -1,0 +1,62 @@
+---
+ID: "b80d41c2-e562-4f23-9a04-c32e5d678902"
+Parent: "a7f3b2c1-d451-4e12-8f93-b21d4c567891"
+Template: "1b2dfd3b-f2f2-4f40-a75c-f6c2490919c4"
+Path: "/sitecore/system/Settings/Project/forge-industrial/Templates/Forge Industrial"
+SharedFields:
+- ID: "41ac536a-923a-43f9-ac87-f3993f638125"
+  Hint: Tenant Modules
+  Value: |
+    {7B81B847-1891-43B2-BC13-5047A62EC32A}
+    {7BAAA4FC-3051-442D-9BD2-AD720B655E0B}
+    {0DC2E395-4A95-4773-88CA-75B22A130849}
+    {4346A98A-D6E9-491E-A0ED-CD12F524CF4E}
+    {4CBC64BF-8116-48A1-ABAC-DB19103897A6}
+    {7574F439-0B48-48BE-BA6B-94B1A3CE01A3}
+    {D912C30C-7A98-4A8D-A094-611D9AF9605D}
+    {6DE1F4E9-815D-491D-923D-D5038100DBEE}
+    {02CD7086-1F87-41EC-B40F-B92C1226895B}
+    {1B0A98C0-1801-44A0-85F2-845694FEAFF3}
+    {D315A501-6503-4545-A5D8-B9FECBA1097D}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "c262443b-653d-461d-96c8-7cfaa0ef2b2d"
+  Hint: Site Modules
+  Value: |
+    {ACC0FB2A-5EC7-9C9D-C81D-AA3E065DC428}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b80d41c2-e562-4f23-9a04-c32e5d678902"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260522T000000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "82e64b52-0b8a-4a38-8c78-530c5493814e"
+      Hint: Name
+      Value: Forge Industrial
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b80d41c2-e562-4f23-9a04-c32e5d678902"
+    - ID: "9f437e68-a84d-48ae-8ce1-a3e26c0b5e64"
+      Hint: Description
+      Value: A precision-engineered B2B manufacturer template with 20 components — hero, feature grid, stats band, case studies, product listing, FAQ, locations map, and more.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260522T000000Z
+    - ID: "da855368-e5f2-4932-ae55-7f8b08a5a205"
+      Hint: Content
+      Value: |
+        [{"name":"Pages","content":"Home, Product Listing, Industry Landing, About, Contact, Resources"},{"name":"Components","content":"ForgeHeader, ForgeHeroIndustrial, ForgeFeatureGrid, ForgeStatsBand, ForgeLogoCloud, ForgeIndustriesServed, ForgeCaseStudyCarousel, ForgeProductListing, ForgeProcessTimeline, ForgeFaqAccordion, ForgeLocationsMap, ForgeContactForm, ForgeCtaBanner, ForgeFooter"},{"name":"Integrations","content":"Personalization and Analytics"}]

@@ -1,0 +1,31 @@
+---
+ID: "1e6a7d28-4b28-4589-a06a-29840e4e4568"
+Parent: "fc485b06-2906-4367-de48-07628b2c2346"
+Template: "455a3e98-64d4-4b76-ac6a-d5b2fab730ae"
+Path: "/sitecore/templates/Project/forge-industrial/Pages/Home Page/Content/metaTitle"
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Single-Line Text
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260522T000000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e6a7d28-4b28-4589-a06a-29840e4e4568"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260522T000000Z

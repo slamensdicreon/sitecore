@@ -1,0 +1,38 @@
+---
+ID: "fdb972d6-733a-7039-4609-10425bc724e8"
+Parent: "83e6a124-171b-43ea-7746-3120afc30152"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: "/sitecore/layout/Placeholder Settings/Project/forge-industrial/Forge Header"
+SharedFields:
+- ID: "1c7ee065-6f95-4418-9c74-1ee4af62b4d3"
+  Hint: Placeholder Key
+  Value: forge-header
+- ID: "3dff2c0d-7d33-4b04-b3ca-a7e7c2d3eb7e"
+  Hint: Allowed Controls
+  Value: |
+    {997fbd7d-ab28-44f8-dccb-4a2506aab902}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260522T000000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fdb972d6-733a-7039-4609-10425bc724e8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260522T000000Z

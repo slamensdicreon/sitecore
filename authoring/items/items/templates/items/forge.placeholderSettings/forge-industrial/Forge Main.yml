@@ -1,0 +1,55 @@
+---
+ID: "14b96e09-d7e5-4590-56fd-e5d4127cbd96"
+Parent: "83e6a124-171b-43ea-7746-3120afc30152"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: "/sitecore/layout/Placeholder Settings/Project/forge-industrial/Forge Main"
+SharedFields:
+- ID: "1c7ee065-6f95-4418-9c74-1ee4af62b4d3"
+  Hint: Placeholder Key
+  Value: forge-main
+- ID: "3dff2c0d-7d33-4b04-b3ca-a7e7c2d3eb7e"
+  Hint: Allowed Controls
+  Value: |
+    {a5dadfcc-c3e8-9f00-a3d1-da60644cdf9f}
+    {c0430097-6841-5374-4878-94b7dee147c9}
+    {801a35ca-4a86-d005-a738-92a9f3498856}
+    {ecc25e57-b982-b262-ab85-b238a6754905}
+    {961a9a7b-1943-9779-7117-a5753a8d5eec}
+    {6457f496-9378-d3b7-b48a-2764c57d47a8}
+    {f59510f4-8dae-6eab-022b-b6d682a1bc03}
+    {08629cb1-fa20-7b6c-834f-728e05580b3f}
+    {d5955123-642d-15e1-2c6b-c86c8658bbbf}
+    {7f380110-6a3c-7d80-5296-80f42e7be0e6}
+    {88c304c8-8c60-8e4d-f371-4ca4e11ffa2a}
+    {31fcb75a-d4ae-5da5-867e-80873401e6d9}
+    {55dc08dc-4f88-dee7-7d05-ee625f81d36e}
+    {a79584ba-b35e-b4b8-7810-40f953ce5a3a}
+    {485567ba-e3b9-3b57-1da8-296aaaecfd8f}
+    {8a979dfe-9faf-6d71-c277-9c0217a1cdf5}
+    {c57a69c7-16a7-1520-231e-cd37683d80bf}
+    {346e5af3-0469-92d9-0c71-de74cdfde221}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260522T000000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14b96e09-d7e5-4590-56fd-e5d4127cbd96"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260522T000000Z

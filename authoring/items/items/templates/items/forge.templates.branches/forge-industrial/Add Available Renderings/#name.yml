@@ -1,0 +1,54 @@
+---
+ID: "3c4d5e6f-7a8b-4c9d-ae1f-2a3b4c5d6e7f"
+Parent: "2b3c4d5e-6f7a-4b8c-9d0e-1f2a3b4c5d6e"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/templates/Branches/Project/forge-industrial/Add Available Renderings/$name"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {997FBD7D-AB28-44F8-DCCB-4A2506AAB902}
+    {9195085B-87F8-D0C3-C493-5AE959286450}
+    {A5DADFCC-C3E8-9F00-A3D1-DA60644CDF9F}
+    {C0430097-6841-5374-4878-94B7DEE147C9}
+    {801A35CA-4A86-D005-A738-92A9F3498856}
+    {ECC25E57-B982-B262-AB85-B238A6754905}
+    {961A9A7B-1943-9779-7117-A5753A8D5EEC}
+    {6457F496-9378-D3B7-B48A-2764C57D47A8}
+    {F59510F4-8DAE-6EAB-022B-B6D682A1BC03}
+    {08629CB1-FA20-7B6C-834F-728E05580B3F}
+    {31FCB75A-D4AE-5DA5-867E-80873401E6D9}
+    {55DC08DC-4F88-DEE7-7D05-EE625F81D36E}
+    {8A979DFE-9FAF-6D71-C277-9C0217A1CDF5}
+    {D5955123-642D-15E1-2C6B-C86C8658BBBF}
+    {7F380110-6A3C-7D80-5296-80F42E7BE0E6}
+    {88C304C8-8C60-8E4D-F371-4CA4E11FFA2A}
+    {A79584BA-B35E-B4B8-7810-40F953CE5A3A}
+    {485567BA-E3B9-3B57-1DA8-296AAAECFD8F}
+    {C57A69C7-16A7-1520-231E-CD37683D80BF}
+    {346E5AF3-0469-92D9-0C71-DE74CDFDE221}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "3c4d5e6f-7a8b-4c9d-ae1f-2a3b4c5d6e7f"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260522T000000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c4d5e6f-7a8b-4c9d-ae1f-2a3b4c5d6e7f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260522T000000Z
