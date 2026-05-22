@@ -1,0 +1,33 @@
+---
+ID: "735a8202-b11c-a68f-f2b7-7f3018c3e87d"
+Parent: "eebfe7cf-f59d-a604-1529-fe04a73c1018"
+Template: "fbc79da4-7c80-48f3-072c-43989110117c"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/Footer/FooterLink Items/FooterLink Item 1"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8a033da2-60ae-b548-0a19-6aae1b4618cc"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FooterLink Item 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3c3772f5-ffce-adb3-e36a-80ffa4607910"
+      Hint: Title
+      Value: Atelier
+    - ID: "fa12d6b6-1de5-14c3-05db-183f2ce32934"
+      Hint: Link
+      Value: "<link text=\"Atelier\" linktype=\"internal\" url=\"/\" anchor=\"\" target=\"\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a3ed721f-06a2-5ebd-2dc7-c1318eabdb52"

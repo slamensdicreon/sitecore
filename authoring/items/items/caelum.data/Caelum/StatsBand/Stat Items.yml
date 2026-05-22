@@ -1,0 +1,24 @@
+---
+ID: "59eb8671-c7e8-b84e-7f8d-457c8abd5ebe"
+Parent: "182f2bdb-630f-7897-a6c7-128f3b808865"
+Template: "03fb48e4-e933-0d12-3b7a-484bbe94e11f"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/StatsBand/Stat Items"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ad843097-1433-0873-dd92-924a7c6b0b14"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Stat Items
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a52f7d02-7e83-63a5-3511-dafe2ce20839"

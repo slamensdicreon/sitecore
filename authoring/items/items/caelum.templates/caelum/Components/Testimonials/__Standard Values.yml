@@ -1,0 +1,20 @@
+---
+ID: "bd98306e-5405-9d8b-1e83-ebbe638768c0"
+Parent: "6bcabe7f-fceb-5b2c-05f3-e55e6cf4dd73"
+Template: "6bcabe7f-fceb-5b2c-05f3-e55e6cf4dd73"
+Path: "/sitecore/templates/Project/caelum/Components/Testimonials/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6b6b7173-ac80-b585-cc56-e70bf4427b0b"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9e1b7619-3237-112b-2040-ca9b5f39a09c"

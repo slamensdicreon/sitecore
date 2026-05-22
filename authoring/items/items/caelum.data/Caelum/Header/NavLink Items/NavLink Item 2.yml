@@ -1,0 +1,33 @@
+---
+ID: "cb081072-cdce-a28a-d43b-adebe525e181"
+Parent: "fb2bf60a-d68a-c265-f8a4-e0f65d1db354"
+Template: "0a5cf0b1-a1d0-6c50-8f73-58f27327835d"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/Header/NavLink Items/NavLink Item 2"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8acb7af1-41e2-b052-36b8-13b9a61dd257"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: NavLink Item 2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "6bf6473b-4924-4915-b982-d925d3773975"
+      Hint: Title
+      Value: Services
+    - ID: "d967dcc7-8ee0-c17a-bf4c-86f59c7d2116"
+      Hint: Link
+      Value: "<link text=\"Services\" linktype=\"internal\" url=\"/services\" anchor=\"\" target=\"\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba90fb73-cb47-1cab-5bf7-92c5fd213786"

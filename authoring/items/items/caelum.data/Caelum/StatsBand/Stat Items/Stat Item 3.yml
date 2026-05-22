@@ -1,0 +1,33 @@
+---
+ID: "c07df062-4108-1263-9dde-213a4534dde9"
+Parent: "59eb8671-c7e8-b84e-7f8d-457c8abd5ebe"
+Template: "4533a479-8629-0222-d536-e6f1892fcca8"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/StatsBand/Stat Items/Stat Item 3"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5d25a874-287c-e3d2-343e-d894b103c5ee"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Stat Item 3
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8659fba5-70b4-4e2c-9b44-d8063c748b7f"
+      Hint: Value
+      Value: 94%
+    - ID: "ed53d71d-ec66-e3dd-b480-4b531921e7ac"
+      Hint: Label
+      Value: Client referral rate
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d57c250-e331-2f22-49dc-52a9bb2334d9"

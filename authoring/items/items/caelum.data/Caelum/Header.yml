@@ -1,0 +1,45 @@
+---
+ID: "34ada809-2984-8408-d840-5fee310a2550"
+Parent: "b02de6d8-39e0-92fc-8106-d67360a431b4"
+Template: "928e2e5d-209c-30a6-7587-4edd8ec0e7e0"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/Header"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8f523083-d08a-dc7e-e809-978aada5e805"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Header
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "f13ec196-a405-8221-1b1a-a69f0028f58d"
+      Hint: Logo
+      Value: ""
+    - ID: "97ef57c2-3e71-0e6a-9caa-332fa3d700ff"
+      Hint: BrandName
+      Value: CAELUM
+    - ID: "3d93d941-83ac-5cea-001d-14107dd439d4"
+      Hint: HomeLink
+      Value: "<link text=\"Home\" linktype=\"internal\" url=\"/\" anchor=\"\" target=\"\" />"
+    - ID: "2fecd96a-8d88-34c6-d4c8-aea37bda9b46"
+      Hint: CtaText
+      Value: Begin a Conversation
+    - ID: "305ae160-f6db-544d-8534-8f366913134b"
+      Hint: CtaLink
+      Value: "<link text=\"Begin a Conversation\" linktype=\"internal\" url=\"/contact\" anchor=\"\" target=\"\" />"
+    - ID: "e832256c-ca88-1bb7-b326-39c3b1e94b5e"
+      Hint: NavLinks
+      Value: "{E7377AB0-F9EB-F4DA-66C0-065D10CF23CF}|{CB081072-CDCE-A28A-D43B-ADEBE525E181}|{EF48424C-5546-0904-AB4D-D49009AB8AA8}|{8DB01615-694F-00D1-BCD1-60F682C53CB9}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df3bc600-edd7-fb04-1e67-ae84e033dc51"

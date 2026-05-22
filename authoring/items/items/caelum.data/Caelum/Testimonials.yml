@@ -1,0 +1,36 @@
+---
+ID: "5d278899-07ad-2339-cd6c-260b77cf2f38"
+Parent: "b02de6d8-39e0-92fc-8106-d67360a431b4"
+Template: "6bcabe7f-fceb-5b2c-05f3-e55e6cf4dd73"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/Testimonials"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6f6bc6db-d84d-100f-6762-1aed90005c8d"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Testimonials
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "f3327a27-5547-cdf1-6f6b-547324c45124"
+      Hint: Eyebrow
+      Value: Testimony
+    - ID: "c9b66e78-17f2-8c92-606d-6af0669b5b1c"
+      Hint: Title
+      Value: Trusted by families who keep their homes for a lifetime.
+    - ID: "58d14360-a8b6-ef22-e21b-5d411b2c206a"
+      Hint: Items
+      Value: "{03F0A9DB-3C5E-220D-A392-0F202F0CFE1F}|{64309EB3-DACE-76BD-8A68-9FE8C25F85A7}|{D6C55FC1-C433-E676-8DC8-DA447C4B00AA}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a53a0599-cabb-feee-28e0-9823f6ea9874"

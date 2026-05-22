@@ -1,0 +1,16 @@
+---
+ID: "e696e572-9d04-48ad-4bce-6f0816d0e459"
+Parent: "6bcabe7f-fceb-5b2c-05f3-e55e6cf4dd73"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/caelum/Components/Testimonials/Testimonials"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7643b171-ec19-4b90-8a7a-1b48525c333d"

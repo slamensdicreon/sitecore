@@ -1,0 +1,20 @@
+---
+ID: "9fd3c581-7f15-57de-4f5c-ff27646249ed"
+Parent: "fbc79da4-7c80-48f3-072c-43989110117c"
+Template: "fbc79da4-7c80-48f3-072c-43989110117c"
+Path: "/sitecore/templates/Project/caelum/Components/FooterLink Item/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a854e6ea-f033-f602-9c30-2e6d3bf4e43b"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "835bbc5a-4f2f-fd6c-b966-82ca4b13c445"

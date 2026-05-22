@@ -1,0 +1,122 @@
+﻿---
+ID: "67048396-d9ee-4c67-894a-a37156b38425"
+Parent: "6e6ba6ec-365e-4ebc-a933-e1d23a410f55"
+Template: "ef6c784c-8a70-4b6e-9478-f637767df1d1"
+Path: "/sitecore/content/advanced-sitecore/basic/Home"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: |
+    ""
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2e0384a5-2494-a636-3806-1e3204525bb2"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          id="{C00A1F94-3EB1-397F-40D6-0E06DCD251EE}"
+          uid="{C1CCFA29-924A-22EE-F3E7-F22EA1464B02}"
+          s:par=""
+          s:ds="{34ADA809-2984-8408-D840-5FEE310A2550}"
+          s:ph="headless-main" />
+        <r
+          id="{C7BDBF4E-88FA-0FDB-5A6B-73421D0EA37E}"
+          uid="{24266E31-2758-94DF-E0B4-D02D752E6723}"
+          s:par=""
+          s:ds="{C754C8E8-90E6-84F8-5386-6D7A024827D5}"
+          s:ph="headless-main" />
+        <r
+          id="{083FBBB6-0266-4AD5-DF0C-02050FBFEA33}"
+          uid="{947A431D-C328-DD73-0E15-886D1B6DF044}"
+          s:par=""
+          s:ds="{182F2BDB-630F-7897-A6C7-128F3B808865}"
+          s:ph="headless-main" />
+        <r
+          id="{7CCCC4D4-44C4-BD96-C675-CA726D87ACF4}"
+          uid="{9B9E4D94-09E6-8CA3-A790-1B8B5393B3A3}"
+          s:par=""
+          s:ds="{9C058E24-EBA8-29C8-3692-DF49794FCF11}"
+          s:ph="headless-main" />
+        <r
+          id="{9B6607B5-2FA5-6977-6BEB-2E9230F2DA1F}"
+          uid="{22010BAC-2900-378C-7148-76900CE3F8DB}"
+          s:par=""
+          s:ds="{5D278899-07AD-2339-CD6C-260B77CF2F38}"
+          s:ph="headless-main" />
+        <r
+          id="{4D2F6D43-331E-B4A4-4F4D-F7E12D4DCE92}"
+          uid="{DB7F31DF-1BA7-2A9D-DE81-222067237A5E}"
+          s:par=""
+          s:ds="{57653034-7338-ED31-A426-99570172AAE8}"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Home
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              id="{C00A1F94-3EB1-397F-40D6-0E06DCD251EE}"
+              uid="{C1CCFA29-924A-22EE-F3E7-F22EA1464B02}"
+              s:par=""
+              s:ds="{34ADA809-2984-8408-D840-5FEE310A2550}"
+              s:ph="headless-main" />
+            <r
+              id="{C7BDBF4E-88FA-0FDB-5A6B-73421D0EA37E}"
+              uid="{24266E31-2758-94DF-E0B4-D02D752E6723}"
+              s:par=""
+              s:ds="{C754C8E8-90E6-84F8-5386-6D7A024827D5}"
+              s:ph="headless-main" />
+            <r
+              id="{083FBBB6-0266-4AD5-DF0C-02050FBFEA33}"
+              uid="{947A431D-C328-DD73-0E15-886D1B6DF044}"
+              s:par=""
+              s:ds="{182F2BDB-630F-7897-A6C7-128F3B808865}"
+              s:ph="headless-main" />
+            <r
+              id="{7CCCC4D4-44C4-BD96-C675-CA726D87ACF4}"
+              uid="{9B9E4D94-09E6-8CA3-A790-1B8B5393B3A3}"
+              s:par=""
+              s:ds="{9C058E24-EBA8-29C8-3692-DF49794FCF11}"
+              s:ph="headless-main" />
+            <r
+              id="{9B6607B5-2FA5-6977-6BEB-2E9230F2DA1F}"
+              uid="{22010BAC-2900-378C-7148-76900CE3F8DB}"
+              s:par=""
+              s:ds="{5D278899-07AD-2339-CD6C-260B77CF2F38}"
+              s:ph="headless-main" />
+            <r
+              id="{4D2F6D43-331E-B4A4-4F4D-F7E12D4DCE92}"
+              uid="{DB7F31DF-1BA7-2A9D-DE81-222067237A5E}"
+              s:par=""
+              s:ds="{57653034-7338-ED31-A426-99570172AAE8}"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a51f8143-a67a-8326-01d1-1afbf82ee77c"

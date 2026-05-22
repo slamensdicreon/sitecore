@@ -1,0 +1,45 @@
+﻿---
+ID: "8bc82156-f1e7-4332-af12-caca2d1889d3"
+Parent: "67048396-d9ee-4c67-894a-a37156b38425"
+Template: "ef6c784c-8a70-4b6e-9478-f637767df1d1"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Pricing"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{7D6240AF-D5A8-4C89-A566-96D0C11383CB}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T224321Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Pricing
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\R406NfU9zwDXqzCyrGwwedkfYVHJEDjK
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\R406NfU9zwDXqzCyrGwwedkfYVHJEDjK
+    - ID: "6fe1e7da-f2cf-4720-a2f0-aa6e1cb13ae5"
+      Hint: Content
+      Value: "<h2>Investment Tiers</h2><p>Three brackets cover most Caelum work.</p><ul><li><strong>Plunge &amp; Spa</strong> &mdash; from $95,000. Compact, considered, beautifully finished.</li><li><strong>Full Bespoke</strong> &mdash; $260,000 to $620,000. The Caelum signature: gallery materials, automation, lighting program.</li><li><strong>Renovations</strong> &mdash; quoted on study. We bring tired pools back to life with respect for the original architecture.</li></ul><p>Every estimate is itemised. No surprises.</p>"
+    - ID: "7ed81754-5fae-485c-9290-75c68dfacab4"
+      Hint: Title
+      Value: Honest, Considered Pricing
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d130f27-269e-4d10-82cc-3a44d22aacbd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\R406NfU9zwDXqzCyrGwwedkfYVHJEDjK
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260521T224322Z

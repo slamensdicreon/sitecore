@@ -1,0 +1,16 @@
+---
+ID: "8bede32f-b5ce-78c5-3dbe-6448bffa6c69"
+Parent: "4533a479-8629-0222-d536-e6f1892fcca8"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/caelum/Components/Stat Item/Stat Item"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9dc9362e-9fae-ccb4-3cf8-444ed808f451"

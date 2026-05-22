@@ -1,0 +1,36 @@
+---
+ID: "64309eb3-dace-76bd-8a68-9fe8c25f85a7"
+Parent: "f5ef8b75-ec0c-9974-1a1e-4513b87644d0"
+Template: "4b41f9d9-8280-b5ab-fd16-c12f5f2bc025"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/Testimonials/Quote Items/Quote Item 2"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f2cd83fc-50ed-e830-686e-377d29edb25b"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Quote Item 2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "80c1b0b1-5dc7-f7d4-dc64-c24a3eead83a"
+      Hint: Quote
+      Value: "<p>The pool we inherited was 30 years old and beyond tired. Caelum re-imagined it as a courtyard centerpiece — same footprint, completely new soul.</p>"
+    - ID: "d2d58c5d-c2ed-b96d-bcb8-5425a4f921c2"
+      Hint: Author
+      Value: Dr. Anjali R.
+    - ID: "32ef432b-97e8-0691-858b-869b5afa17d7"
+      Hint: AuthorTitle
+      Value: Boca Raton · Renovation
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "706120b8-6fc9-1eb2-c97f-c71a455922e7"

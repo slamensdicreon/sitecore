@@ -1,0 +1,54 @@
+---
+ID: "c754c8e8-90e6-84f8-5386-6d7a024827d5"
+Parent: "b02de6d8-39e0-92fc-8106-d67360a431b4"
+Template: "9383d9d9-21e6-ab15-a94c-bab58ed91c23"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/Hero"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "747ca212-51e2-5a90-516a-9cd577d6e45a"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hero
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "6394cd4b-fc0a-1bb6-218d-755c090b6869"
+      Hint: Eyebrow
+      Value: Bespoke Pool Atelier
+    - ID: "ba43c09d-6377-ec7e-6e41-9a1964aaf5d7"
+      Hint: Title
+      Value: A pool, perfected.
+    - ID: "ceaf5835-ad24-932b-9dc0-27f4d07e50c6"
+      Hint: Subtitle
+      Value: A South Florida atelier crafting custom pool architecture and white-glove stewardship — one project at a time.
+    - ID: "5e02b421-a32d-1ae2-b0d1-2615cfddda94"
+      Hint: Body
+      Value: ""
+    - ID: "783654e7-7093-b58c-1aea-52b74e4e2290"
+      Hint: BackgroundImage
+      Value: ""
+    - ID: "782f18c3-49a7-b649-caf2-87706f878f65"
+      Hint: PrimaryCtaText
+      Value: Begin your project
+    - ID: "bf067fec-07fa-b5f1-ab5f-f3c1b0fbf4c3"
+      Hint: PrimaryCtaLink
+      Value: "<link text=\"Begin your project\" linktype=\"internal\" url=\"/contact\" anchor=\"\" target=\"\" />"
+    - ID: "32bc9e71-8a7f-6c93-53b8-d01d867ad700"
+      Hint: SecondaryCtaText
+      Value: View our work
+    - ID: "e15b6761-5361-a16e-ef94-8c1e42b8a380"
+      Hint: SecondaryCtaLink
+      Value: "<link text=\"View our work\" linktype=\"internal\" url=\"/services\" anchor=\"\" target=\"\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94316479-275a-9f39-d2ee-2edacc9a3944"

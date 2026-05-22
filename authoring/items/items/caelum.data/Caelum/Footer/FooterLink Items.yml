@@ -1,0 +1,24 @@
+---
+ID: "eebfe7cf-f59d-a604-1529-fe04a73c1018"
+Parent: "57653034-7338-ed31-a426-99570172aae8"
+Template: "a23e3891-1d6d-887e-36c3-52dbb7655d3e"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/Footer/FooterLink Items"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c4de9e58-005f-3ded-272e-a0060f68583f"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FooterLink Items
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2990d1e-5151-098b-9ee4-56d737161bdf"

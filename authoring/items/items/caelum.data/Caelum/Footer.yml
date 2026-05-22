@@ -1,0 +1,50 @@
+---
+ID: "57653034-7338-ed31-a426-99570172aae8"
+Parent: "b02de6d8-39e0-92fc-8106-d67360a431b4"
+Template: "e0e482ef-8704-efde-770f-f26ae1d43ff3"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/Footer"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "be9a5f13-dcee-ddcc-5832-d3cb677665d0"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Footer
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5af89191-5bf9-66a1-fe93-d5a2a5ed86e6"
+      Hint: BrandName
+      Value: CAELUM
+    - ID: "f69c9d02-56d1-20a0-28a9-33dbb8200de8"
+      Hint: Tagline
+      Value: A South Florida atelier crafting custom pool architecture and white-glove stewardship for clients who keep their homes for a lifetime.
+    - ID: "ae6841b7-387e-ce7f-405d-c8bc033e9e1a"
+      Hint: Address
+      Value: |
+        210 Ocean Boulevard
+        Palm Beach, FL
+    - ID: "48f2105f-51c8-9f27-b95d-f96239024925"
+      Hint: Email
+      Value: studio@caelumpools.com
+    - ID: "b7307ef0-ee8d-25d5-60d5-7a8491d05047"
+      Hint: Phone
+      Value: +1 (561) 555-0142
+    - ID: "414f073f-1e99-69c2-2ccf-62622f7d9630"
+      Hint: Copyright
+      Value: © 2026 CAELUM. All rights reserved.
+    - ID: "df16321b-dced-1dec-f5b6-b42ceef25418"
+      Hint: Links
+      Value: "{735A8202-B11C-A68F-F2B7-7F3018C3E87D}|{6FD23CD0-BC2F-C268-241C-8EECAD4E1EE7}|{B9094B71-4150-E821-F875-1F4D265495DB}|{24B335D8-7231-1B0D-071A-9BA43498C806}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3bf80eb9-5543-08b6-e824-5103c0e78823"

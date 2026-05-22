@@ -1,0 +1,20 @@
+---
+ID: "b52d8f63-94a3-213e-4207-c9d7950836c1"
+Parent: "4533a479-8629-0222-d536-e6f1892fcca8"
+Template: "4533a479-8629-0222-d536-e6f1892fcca8"
+Path: "/sitecore/templates/Project/caelum/Components/Stat Item/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e65944a8-30f5-3f8d-455d-d5172d0eaceb"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5582bf77-59e0-dba6-b892-0517b058ca27"

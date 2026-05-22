@@ -1,0 +1,20 @@
+---
+ID: "f1e36714-2766-9390-6c85-ae30133b58df"
+Parent: "0a5cf0b1-a1d0-6c50-8f73-58f27327835d"
+Template: "0a5cf0b1-a1d0-6c50-8f73-58f27327835d"
+Path: "/sitecore/templates/Project/caelum/Components/NavLink Item/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "077b51db-856d-2083-bad7-1f6978a55d21"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71779d95-c0e0-64e0-93a4-c95ea572f99c"

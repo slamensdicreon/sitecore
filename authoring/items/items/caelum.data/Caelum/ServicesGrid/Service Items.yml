@@ -1,0 +1,24 @@
+---
+ID: "5022535a-a27a-1406-3aa0-1a540e3803e9"
+Parent: "9c058e24-eba8-29c8-3692-df49794fcf11"
+Template: "b812ddfd-faf3-3f15-b2de-5078b2d36850"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/ServicesGrid/Service Items"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "77bb794b-3bc9-e448-e05e-b85018be744c"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Service Items
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10b4b3f0-7661-b31e-b957-4c298ee3631a"

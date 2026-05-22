@@ -1,0 +1,16 @@
+---
+ID: "4a8cae5f-860d-a756-870f-5878a5754969"
+Parent: "e8b4c737-4589-a288-022e-30fc65ca0139"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/caelum/Components/Service Item/Service Item"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05f6553e-6eb2-c478-9fe0-a4649eeaed32"

@@ -1,0 +1,30 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.caelum",
+  "items": {
+    "includes": [
+      {
+        "name": "caelum.templates",
+        "path": "/sitecore/templates/Project/caelum",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "caelum.renderings",
+        "path": "/sitecore/Layout/Renderings/Project/caelum",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "caelum.data",
+        "path": "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "caelum.pages",
+        "path": "/sitecore/content/advanced-sitecore/basic/Home",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}

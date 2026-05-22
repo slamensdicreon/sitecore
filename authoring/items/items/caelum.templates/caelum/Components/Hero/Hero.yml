@@ -1,0 +1,16 @@
+---
+ID: "04d693e5-dfa2-3e18-487e-9667b14fbaa6"
+Parent: "9383d9d9-21e6-ab15-a94c-bab58ed91c23"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/caelum/Components/Hero/Hero"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "015e7792-6c00-7872-f8d3-a2512a2f308a"

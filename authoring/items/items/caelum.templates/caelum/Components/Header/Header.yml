@@ -1,0 +1,16 @@
+---
+ID: "e4804526-f9b5-1c71-c8f9-eda2843ca5a2"
+Parent: "928e2e5d-209c-30a6-7587-4edd8ec0e7e0"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/caelum/Components/Header/Header"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10022855-5cb5-4562-2b94-65f4a5bc5b43"

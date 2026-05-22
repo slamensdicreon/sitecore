@@ -1,0 +1,36 @@
+---
+ID: "03f0a9db-3c5e-220d-a392-0f202f0cfe1f"
+Parent: "f5ef8b75-ec0c-9974-1a1e-4513b87644d0"
+Template: "4b41f9d9-8280-b5ab-fd16-c12f5f2bc025"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/Testimonials/Quote Items/Quote Item 1"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "041faabd-27a8-7b05-b2b2-616fe4bd563e"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Quote Item 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "80c1b0b1-5dc7-f7d4-dc64-c24a3eead83a"
+      Hint: Quote
+      Value: "<p>Working with Caelum was the calmest renovation of our lives. They quoted in writing, finished early, and the water feature is the favorite thing in our home.</p>"
+    - ID: "d2d58c5d-c2ed-b96d-bcb8-5425a4f921c2"
+      Hint: Author
+      Value: Helena & Marcus T.
+    - ID: "32ef432b-97e8-0691-858b-869b5afa17d7"
+      Hint: AuthorTitle
+      Value: Manalapan, FL · Bespoke build
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81adcbdf-b1f9-f982-8405-0f75f7f0ca3e"

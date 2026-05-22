@@ -1,0 +1,16 @@
+---
+ID: "ad94c988-083c-a696-fbd9-d0256d9ffeb8"
+Parent: "0a5cf0b1-a1d0-6c50-8f73-58f27327835d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/caelum/Components/NavLink Item/NavLink Item"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d11fd0ce-80f1-bbaa-cb1a-c4115c088b52"

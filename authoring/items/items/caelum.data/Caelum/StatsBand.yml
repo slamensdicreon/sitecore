@@ -1,0 +1,30 @@
+---
+ID: "182f2bdb-630f-7897-a6c7-128f3b808865"
+Parent: "b02de6d8-39e0-92fc-8106-d67360a431b4"
+Template: "bbddea2c-c828-099a-ef83-059c4ccba951"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/StatsBand"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "cfa55075-d7b4-6807-c8c5-dcf8e966e4eb"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: StatsBand
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "7fbd6d2c-74e6-aa8c-183a-675ef9cbe9c1"
+      Hint: Items
+      Value: "{A343E78B-C2DC-5532-EFF2-71B94127A2C9}|{DAA837D0-2C91-0D1C-577B-513C0280266C}|{C07DF062-4108-1263-9DDE-213A4534DDE9}|{0D7A479F-21EE-418F-DB66-FC43D3B20063}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "59e7c5df-ac4a-9e1f-c699-054fe8663c7e"

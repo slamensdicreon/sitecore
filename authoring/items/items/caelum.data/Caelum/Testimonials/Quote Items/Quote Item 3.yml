@@ -1,0 +1,36 @@
+---
+ID: "d6c55fc1-c433-e676-8dc8-da447c4b00aa"
+Parent: "f5ef8b75-ec0c-9974-1a1e-4513b87644d0"
+Template: "4b41f9d9-8280-b5ab-fd16-c12f5f2bc025"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/Testimonials/Quote Items/Quote Item 3"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e8c58de3-d507-bc80-efbc-11edc947177f"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Quote Item 3
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "80c1b0b1-5dc7-f7d4-dc64-c24a3eead83a"
+      Hint: Quote
+      Value: "<p>Their maintenance program is the only one I recommend to friends. One dedicated technician for four years now. I never think about my pool.</p>"
+    - ID: "d2d58c5d-c2ed-b96d-bcb8-5425a4f921c2"
+      Hint: Author
+      Value: Thomas K.
+    - ID: "32ef432b-97e8-0691-858b-869b5afa17d7"
+      Hint: AuthorTitle
+      Value: Jupiter Island · Maintenance member
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f8e8710-4630-6b53-4916-e2563a5d5a93"

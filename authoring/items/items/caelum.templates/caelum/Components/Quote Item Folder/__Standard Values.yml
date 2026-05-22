@@ -1,0 +1,20 @@
+---
+ID: "8775079d-36db-3743-6f66-8f2e68eaa4be"
+Parent: "a0da6ea9-23db-a3f2-503a-f8679ba60e91"
+Template: "a0da6ea9-23db-a3f2-503a-f8679ba60e91"
+Path: "/sitecore/templates/Project/caelum/Components/Quote Item Folder/__Standard Values"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "afb8f0b0-9e27-3481-ac61-547927015929"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b31a64c4-a197-eaf9-796d-e474ef4ae8f4"

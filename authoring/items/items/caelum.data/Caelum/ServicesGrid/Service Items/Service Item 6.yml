@@ -1,0 +1,33 @@
+---
+ID: "35de1c1b-0887-9863-fc55-a6b761918325"
+Parent: "5022535a-a27a-1406-3aa0-1a540e3803e9"
+Template: "e8b4c737-4589-a288-022e-30fc65ca0139"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/ServicesGrid/Service Items/Service Item 6"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c1b3238b-52b7-7052-6ec4-e6e48d5882f4"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Service Item 6
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "a50d0e46-e699-e716-e823-15843d26a7a5"
+      Hint: Title
+      Value: Diagnostics &amp; Repair
+    - ID: "942af4a7-0d3a-4947-bd54-4da3864610a7"
+      Hint: Description
+      Value: "<p>Leak detection, structural repair, and equipment service — by technicians who built pools first.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76654544-21ab-2a43-2bd9-4c1d33825899"

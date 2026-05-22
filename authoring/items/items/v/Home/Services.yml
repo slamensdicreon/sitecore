@@ -1,0 +1,74 @@
+﻿---
+ID: "91861dec-cf15-4854-97d7-93ecccc93bf6"
+Parent: "67048396-d9ee-4c67-894a-a37156b38425"
+Template: "ef6c784c-8a70-4b6e-9478-f637767df1d1"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Services"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{564D6436-2B60-4B75-B9BF-46EA573225B4}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "22dd0b68-70c5-4bbc-be93-ad76c5de846d"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0460600E-9601-4860-B1D2-CF1E904577A9}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b3E727FEB-46F8-426D-990E-77BB8BE0D5CB%7d%7c%7bF83113B7-C55B-45E9-9413-9015CB770833%7d%7c%7bD525374A-B8E6-4E52-85C3-BC5735840B5D%7d%7c%7b7A17C01B-5906-4B62-954D-A693B683EC70%7d%7c%7b3D004A7F-7538-4D38-AE5B-9CABD300B636%7d%7c%7b07648A6F-564F-4E30-A862-05747FC631D2%7d%7c%7b53FC64BB-2E64-4169-9A36-57CB66A2782A%7d%7c%7bD47B4912-EFF7-4608-88E4-465F59C869E1%7d%7c%7bC000C799-C78E-4E2F-9E53-198475B50DA8%7d%7c%7b19E57021-0439-4193-BDE2-1E9FBEBD4711%7d%7c%7bBA476B97-F2B1-4C08-B216-7F5EF603FC82%7d%7c%7bC70CBCC7-7DA0-4AFB-A603-19826B165D90%7d%7c%7b6A8505F8-8411-4550-A870-D10E8EA7887A%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{BE0C04E7-059C-42EC-B4D2-7F96ABD19824}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b20717D98-5F53-4717-8467-734E117FA729%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T223846Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Services
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\steve@icreon.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\steve@icreon.com
+    - ID: "6fe1e7da-f2cf-4720-a2f0-aa6e1cb13ae5"
+      Hint: Content
+      Value: "<h2>White-Glove, End to End</h2><p>From first sketch to first swim: <strong>bespoke design, renovation, white-glove maintenance, equipment automation, diagnostics, and opening &amp; closing</strong>.</p><ul><li><strong>Bespoke Design</strong> &mdash; site study, hand-drawn concept, material palette.</li><li><strong>Build &amp; Renovation</strong> &mdash; permanent shells, gallery-grade finishes.</li><li><strong>White-Glove Maintenance</strong> &mdash; weekly stewardship, chemistry, polish.</li><li><strong>Equipment Automation</strong> &mdash; smart controls, energy management.</li><li><strong>Diagnostics</strong> &mdash; quiet hydraulics, water clarity, structural review.</li><li><strong>Opening &amp; Closing</strong> &mdash; seasonal rituals, done right.</li></ul>"
+    - ID: "7ed81754-5fae-485c-9290-75c68dfacab4"
+      Hint: Title
+      Value: Six Practices, One Atelier
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b191417-c04e-4e6e-9bdb-0db3ba58db19"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\R406NfU9zwDXqzCyrGwwedkfYVHJEDjK
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260521T224320Z

@@ -1,0 +1,24 @@
+---
+ID: "f5ef8b75-ec0c-9974-1a1e-4513b87644d0"
+Parent: "5d278899-07ad-2339-cd6c-260b77cf2f38"
+Template: "a0da6ea9-23db-a3f2-503a-f8679ba60e91"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/Testimonials/Quote Items"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "647da390-5f06-6772-9e9c-945eb78e7ab4"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Quote Items
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77c67591-2678-5e12-bb6b-c162c98a6dbb"

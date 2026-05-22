@@ -1,0 +1,24 @@
+---
+ID: "b02de6d8-39e0-92fc-8106-d67360a431b4"
+Parent: "2e131eed-ab3c-4501-ba82-990d78a77a00"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "eafcf0d4-1eda-29d8-1e5e-48ac3e7a48b0"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Caelum
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3d062a0-3c0e-9a2a-e4a3-a579ef7289df"

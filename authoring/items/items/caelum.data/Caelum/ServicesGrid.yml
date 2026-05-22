@@ -1,0 +1,39 @@
+---
+ID: "9c058e24-eba8-29c8-3692-df49794fcf11"
+Parent: "b02de6d8-39e0-92fc-8106-d67360a431b4"
+Template: "4184ca91-f15c-10cf-90a3-1a363ac4cae3"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/ServicesGrid"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c75e3c7c-da6f-daa4-f048-9241b9358897"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ServicesGrid
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "c359491b-721a-1495-7678-f6cdc83520ab"
+      Hint: Eyebrow
+      Value: The Atelier
+    - ID: "1ae9daf9-db85-6c95-6276-4a581725f183"
+      Hint: Title
+      Value: Six disciplines, one studio.
+    - ID: "f574e320-2faa-12aa-c4e5-c0c045bf5015"
+      Hint: Intro
+      Value: Every Caelum project is led by a single master — from first sketch to first swim.
+    - ID: "40251eb8-e502-a1b8-bb76-e6977479dd2b"
+      Hint: Items
+      Value: "{087D6B64-C0FF-C079-C82D-15CEADA0A3F6}|{55214C63-36E8-56CB-C406-44C4D1F70935}|{34B69EDB-7C5D-70B9-A234-A8684C9D2C46}|{2A1530C5-20B5-F9F6-CF20-8D52BE34C5C4}|{7784D011-E6CF-52EE-5B38-09CE74E9BC1A}|{35DE1C1B-0887-9863-FC55-A6B761918325}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a5e1f6ea-942d-625e-e4f0-20ccfc40e01a"

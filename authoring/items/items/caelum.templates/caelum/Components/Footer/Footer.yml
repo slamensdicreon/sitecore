@@ -1,0 +1,16 @@
+---
+ID: "8944d7b7-7aef-03cc-b0aa-0ed7670d880f"
+Parent: "e0e482ef-8704-efde-770f-f26ae1d43ff3"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/caelum/Components/Footer/Footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "008194a5-d9bb-eb38-2bf5-46df6a236c06"

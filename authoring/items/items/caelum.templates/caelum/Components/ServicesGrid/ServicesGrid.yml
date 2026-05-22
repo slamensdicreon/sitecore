@@ -1,0 +1,16 @@
+---
+ID: "9754052b-fef0-7f5d-963c-68402dbe7fbd"
+Parent: "4184ca91-f15c-10cf-90a3-1a363ac4cae3"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/caelum/Components/ServicesGrid/ServicesGrid"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f5ce5e05-4dd6-6308-fbb0-5c3703057821"

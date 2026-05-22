@@ -1,0 +1,45 @@
+﻿---
+ID: "83f4c83d-5429-475b-b353-5d89a1649e20"
+Parent: "67048396-d9ee-4c67-894a-a37156b38425"
+Template: "ef6c784c-8a70-4b6e-9478-f637767df1d1"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Contact"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{A82CACE8-6B42-4DC2-9E63-B5314CB36366}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T224322Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Contact
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\R406NfU9zwDXqzCyrGwwedkfYVHJEDjK
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\R406NfU9zwDXqzCyrGwwedkfYVHJEDjK
+    - ID: "6fe1e7da-f2cf-4720-a2f0-aa6e1cb13ae5"
+      Hint: Content
+      Value: "<h2>Studio Visits by Appointment</h2><p>Visit the studio at <strong>210 Ocean Boulevard, Palm Beach</strong>.</p><p>Monday&ndash;Friday 9am&ndash;6pm &middot; Saturday 10am&ndash;4pm</p><p><strong>Email:</strong> studio@caelumpools.com<br/><strong>Telephone:</strong> +1 (561) 555-0142</p><p>Most projects begin with a one-hour conversation at the studio, followed by a site visit. We respond within one business day.</p>"
+    - ID: "7ed81754-5fae-485c-9290-75c68dfacab4"
+      Hint: Title
+      Value: Begin a Conversation
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f184dea-1a2b-40cf-8bfb-d0f443114dde"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\R406NfU9zwDXqzCyrGwwedkfYVHJEDjK
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260521T224323Z

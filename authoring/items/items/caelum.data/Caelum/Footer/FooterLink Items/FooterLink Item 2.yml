@@ -1,0 +1,33 @@
+---
+ID: "6fd23cd0-bc2f-c268-241c-8eecad4e1ee7"
+Parent: "eebfe7cf-f59d-a604-1529-fe04a73c1018"
+Template: "fbc79da4-7c80-48f3-072c-43989110117c"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/Footer/FooterLink Items/FooterLink Item 2"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0061f384-c9d8-ca53-2c27-f41c34f1c61f"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FooterLink Item 2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3c3772f5-ffce-adb3-e36a-80ffa4607910"
+      Hint: Title
+      Value: Services
+    - ID: "fa12d6b6-1de5-14c3-05db-183f2ce32934"
+      Hint: Link
+      Value: "<link text=\"Services\" linktype=\"internal\" url=\"/services\" anchor=\"\" target=\"\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a506ae0d-1246-ffcb-951b-0e7717c5884f"

@@ -1,0 +1,33 @@
+---
+ID: "0d7a479f-21ee-418f-db66-fc43d3b20063"
+Parent: "59eb8671-c7e8-b84e-7f8d-457c8abd5ebe"
+Template: "4533a479-8629-0222-d536-e6f1892fcca8"
+Path: "/sitecore/content/advanced-sitecore/basic/Home/Data/Caelum/StatsBand/Stat Items/Stat Item 4"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0f4a63d7-75db-6add-486a-15d7015dac39"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Stat Item 4
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8659fba5-70b4-4e2c-9b44-d8063c748b7f"
+      Hint: Value
+      Value: 25yr
+    - ID: "ed53d71d-ec66-e3dd-b480-4b531921e7ac"
+      Hint: Label
+      Value: Structural warranty
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260521T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d8070c3-b846-b32c-a5ed-a11fbf299d0d"
