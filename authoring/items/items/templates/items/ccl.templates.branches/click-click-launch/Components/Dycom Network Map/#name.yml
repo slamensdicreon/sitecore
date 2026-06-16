@@ -1,0 +1,38 @@
+﻿---
+ID: "9bd55efc-5f36-49b6-b18b-bf3d3ca54df1"
+Parent: "a80e17b6-0392-47d9-89f7-495cd19fe1bf"
+Template: "a6879f40-51b1-4416-bafc-8ecb0d6a5dd2"
+Path: "/sitecore/templates/Branches/Project/click-click-launch/Components/Dycom Network Map/$name"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: $name
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "a653bcdd-3dc1-466c-b0cd-08dcf4b25464"
+      Hint: title
+      Value: Our Family of Companies
+    - ID: "5102e8e6-448d-42c2-b8c0-f44cbf8fe1b7"
+      Hint: introduction
+      Value: |
+        <p>One connected network. Explore every company and location across the family, and see open roles on a single map.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260616T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e180f637-c3f5-430d-8897-ab68952bb1d1"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260616T000000Z

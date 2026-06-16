@@ -1,0 +1,59 @@
+﻿---
+ID: "68f10147-5a4a-4a37-842e-33dc59c81519"
+Parent: "9bd55efc-5f36-49b6-b18b-bf3d3ca54df1"
+Template: "93ff553f-2d6b-4e0f-945a-7079689d9ac8"
+Path: "/sitecore/templates/Branches/Project/click-click-launch/Components/Dycom Network Map/$name/CableCom LLC"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: CableCom, LLC
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "dc3ada70-22c2-4d72-a25d-a75848087939"
+      Hint: companyName
+      Value: CableCom, LLC
+    - ID: "1c85dea2-32c1-4c0e-bc89-4372fc1b7f74"
+      Hint: hqAddress
+      Value: 1429 Avenue D, #339
+    - ID: "d45fde9a-a08d-4226-8d02-1f4cd5d7d41b"
+      Hint: hqCity
+      Value: Snohomish
+    - ID: "aec6f1f0-da51-4908-b8d5-e24b95f7a6cc"
+      Hint: hqState
+      Value: WA
+    - ID: "254b9bcb-9f12-451e-87bd-4314d96ba149"
+      Hint: hqZip
+      Value: 98290
+    - ID: "4e8657fd-97e1-49a6-94ca-232343d399b5"
+      Hint: hqPhone
+      Value: (360) 668-1300
+    - ID: "fdbb14c8-190a-46af-b34f-135579a49586"
+      Hint: website
+      Value: "<link text=\"Visit website\" linktype=\"external\" url=\"http://www.cablecomllc.us/\" anchor=\"\" target=\"_blank\" />"
+    - ID: "8d1cf133-3f9d-4b31-bf75-6fc130a1fdb0"
+      Hint: careersUrl
+      Value: "<link text=\"View careers\" linktype=\"external\" url=\"https://cablecomllc.us/careers/\" anchor=\"\" target=\"_blank\" />"
+    - ID: "c20fb3a2-9fe4-4d2a-9415-d1aca736afc4"
+      Hint: description
+      Value: |
+        <p>CableCom, LLC ("CableCom") is a fully integrated turn-key provider of telecommunications services specializing in project management, systems engineering, design, make-ready, aerial construction, directional boring and hard surface excavation in both a residential and commercial environment. We combine a multi-skilled workforce with extensive experience maintaining coaxial and fiber infrastructure in the United States.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260616T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89b8dcc0-60be-4413-b12e-8664d2a7b055"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260616T000000Z

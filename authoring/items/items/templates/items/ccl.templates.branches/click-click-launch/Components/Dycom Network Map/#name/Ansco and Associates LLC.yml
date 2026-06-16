@@ -1,0 +1,59 @@
+﻿---
+ID: "61b127f5-70b8-412a-ab91-1ff62b698a58"
+Parent: "9bd55efc-5f36-49b6-b18b-bf3d3ca54df1"
+Template: "93ff553f-2d6b-4e0f-945a-7079689d9ac8"
+Path: "/sitecore/templates/Branches/Project/click-click-launch/Components/Dycom Network Map/$name/Ansco and Associates LLC"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Ansco & Associates, LLC
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "dc3ada70-22c2-4d72-a25d-a75848087939"
+      Hint: companyName
+      Value: Ansco & Associates, LLC
+    - ID: "1c85dea2-32c1-4c0e-bc89-4372fc1b7f74"
+      Hint: hqAddress
+      Value: 200 North Point Center East, Suite 400
+    - ID: "d45fde9a-a08d-4226-8d02-1f4cd5d7d41b"
+      Hint: hqCity
+      Value: Alpharetta
+    - ID: "aec6f1f0-da51-4908-b8d5-e24b95f7a6cc"
+      Hint: hqState
+      Value: GA
+    - ID: "254b9bcb-9f12-451e-87bd-4314d96ba149"
+      Hint: hqZip
+      Value: 30022
+    - ID: "4e8657fd-97e1-49a6-94ca-232343d399b5"
+      Hint: hqPhone
+      Value: (404) 508-5700
+    - ID: "fdbb14c8-190a-46af-b34f-135579a49586"
+      Hint: website
+      Value: "<link text=\"Visit website\" linktype=\"external\" url=\"https://anscollc.com/\" anchor=\"\" target=\"_blank\" />"
+    - ID: "8d1cf133-3f9d-4b31-bf75-6fc130a1fdb0"
+      Hint: careersUrl
+      Value: "<link text=\"View careers\" linktype=\"external\" url=\"https://anscollc.com/careers/\" anchor=\"\" target=\"_blank\" />"
+    - ID: "c20fb3a2-9fe4-4d2a-9415-d1aca736afc4"
+      Hint: description
+      Value: |
+        <p>Ansco & Associates, LLC ("Ansco") is a specialized contractor providing services to telecommunications providers, electric utilities, and others. From the engineering, construction and maintenance of underground and aerial utility lines to the placement and installation of optical fiber cable for long distance transmission, local loop and broadband facilities, Ansco is an experienced, progressive utility contractor.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260616T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c6445e6-ca32-44cf-8459-a27c23351817"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260616T000000Z

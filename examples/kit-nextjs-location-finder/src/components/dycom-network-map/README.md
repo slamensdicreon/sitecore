@@ -56,6 +56,17 @@ a **Dycom Network Map Folder** under the site's `Data` item.
 Templates are serialized under
 `authoring/.../ccl.templates/click-click-launch/Components/Dycom Network Map`.
 
+### Sample content & availability
+
+- The rendering's **Datasource Template** points at a branch
+  (`/sitecore/templates/Branches/.../Components/Dycom Network Map`), so choosing
+  **Create new content** when adding the rendering seeds a ready-to-render map
+  (6 real Dycom companies with locations) that authors can then edit.
+- The rendering is registered in Alaris's **Add Available Renderings** branch, so
+  it appears in the component list for newly created Alaris sites. For an
+  **existing** site, add it once via Pages → site settings → available
+  components (the live site's content isn't serialized in this repo).
+
 The "open roles" view is derived deterministically from the authored locations
 (a stand-in for a single SAP SuccessFactors requisition feed projected across
 the whole family), so it needs no extra authoring.
