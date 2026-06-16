@@ -1,9 +1,13 @@
 # Dycom Network Map
 
 An interactive Mapbox map of the Dycom "family of companies" — one connected
-network rendered for the Alaris (click-click-launch) site. It shows every
-company, every physical location (clustered), and a derived "open roles" view,
-all driven by **Sitecore datasource items**.
+network. It shows every company, every physical location (clustered), and a
+derived "open roles" view, all driven by **Sitecore datasource items**.
+
+It lives in the **product-listing (SYNC)** starter because that is the rendering
+host this environment builds and serves; the Dycom site renders through it. The
+Sitecore templates/rendering are part of the shared **click-click-launch**
+project, so they work for any site in that collection regardless of starter.
 
 This is a net-new component (it does not reuse the Google-Maps based
 `location-search`). It was ported from the standalone Next.js + Mapbox app at
@@ -62,8 +66,8 @@ Templates are serialized under
   (`/sitecore/templates/Branches/.../Components/Dycom Network Map`), so choosing
   **Create new content** when adding the rendering seeds a ready-to-render map
   (6 real Dycom companies with locations) that authors can then edit.
-- The rendering is registered in Alaris's **Add Available Renderings** branch, so
-  it appears in the component list for newly created Alaris sites. For an
+- The rendering is registered in SYNC's **Add Available Renderings** branch, so
+  it appears in the component list for newly created SYNC sites. For an
   **existing** site, add it once via Pages → site settings → available
   components (the live site's content isn't serialized in this repo).
 
