@@ -27,6 +27,6 @@ export interface PoolPricingTierFields {
 }
 
 export interface PoolPricingTierProps extends ComponentProps {
-  params: { [key: string]: unknown };
+  params: { [key: string]: any }; // eslint-disable-line @typescript-eslint/no-explicit-any
   fields: PoolPricingTierFields;
 }

@@ -20,6 +20,6 @@ export interface PoolGalleryFields {
 }
 
 export interface PoolGalleryProps extends ComponentProps {
-  params: { [key: string]: unknown };
+  params: { [key: string]: any }; // eslint-disable-line @typescript-eslint/no-explicit-any
   fields: PoolGalleryFields;
 }
