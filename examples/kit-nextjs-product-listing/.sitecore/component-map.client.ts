@@ -3,6 +3,7 @@
 import { BYOCClientWrapper, NextjsContentSdkComponent, FEaaSClientWrapper } from '@sitecore-content-sdk/nextjs';
 import { Form } from '@sitecore-content-sdk/nextjs';
 
+import * as DycomNetworkMap from 'src/components/dycom-network-map/DycomNetworkMap';
 import * as zipcodemodaldev from 'src/components/zipcode-modal/zipcode-modal.dev';
 import * as VerticalImageAccordion from 'src/components/vertical-image-accordion/VerticalImageAccordion';
 import * as themeproviderdev from 'src/components/theme-provider/theme-provider.dev';
@@ -186,6 +187,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['ProductListingSlider', { ...ProductListingSliderdev }],
   ['ProductListingDefault', { ...ProductListingDefaultdev }],
   ['ProductListing', { ...ProductListing }],
+  ['DycomNetworkMap', { ...DycomNetworkMap }],
   ['portal', { ...portaldev }],
   ['PoolHero', { ...PoolHerodev }],
   ['PoolHeader', { ...PoolHeaderdev }],

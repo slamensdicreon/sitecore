@@ -4,6 +4,7 @@ import { BYOCServerWrapper, NextjsContentSdkComponent, FEaaSServerWrapper } from
 import { Form } from '@sitecore-content-sdk/nextjs';
 
 // end of built-in components
+import * as DycomNetworkMap from 'src/components/dycom-network-map/DycomNetworkMap';
 import * as zipcodemodaldev from 'src/components/zipcode-modal/zipcode-modal.dev';
 import * as verticalimageaccordionprops from 'src/components/vertical-image-accordion/vertical-image-accordion.props';
 import * as VerticalImageAccordion from 'src/components/vertical-image-accordion/VerticalImageAccordion';
@@ -404,6 +405,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['ProductListingDefault', { ...ProductListingDefaultdev }],
   ['ProductListingCard', { ...ProductListingCarddev }],
   ['ProductListing', { ...ProductListing, componentType: 'client' }],
+  ['DycomNetworkMap', { ...DycomNetworkMap, componentType: 'client' }],
   ['portal', { ...portaldev }],
   ['PoolTestimonials', { ...PoolTestimonialsprops, ...PoolTestimonialsdev }],
   ['PoolStatsBand', { ...PoolStatsBandprops, ...PoolStatsBanddev }],

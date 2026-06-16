@@ -3,7 +3,6 @@
 import { BYOCClientWrapper, NextjsContentSdkComponent, FEaaSClientWrapper } from '@sitecore-content-sdk/nextjs';
 import { Form } from '@sitecore-content-sdk/nextjs';
 
-import * as DycomNetworkMap from 'src/components/dycom-network-map/DycomNetworkMap';
 import * as zipcodemodaldev from 'src/components/zipcode-modal/zipcode-modal.dev';
 import * as VideoPlayerdev from 'src/components/video/VideoPlayer.dev';
 import * as VideoModaldev from 'src/components/video/VideoModal.dev';
@@ -161,7 +160,6 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['LocationSearchItem', { ...LocationSearchItemdev }],
   ['LocationSearchDefault', { ...LocationSearchDefaultdev }],
   ['LocationSearch', { ...LocationSearch }],
-  ['DycomNetworkMap', { ...DycomNetworkMap }],
   ['GoogleMap', { ...GoogleMapdev }],
   ['ImageGalleryNoSpacing', { ...ImageGalleryNoSpacingdev }],
   ['ImageGalleryGrid', { ...ImageGalleryGriddev }],
