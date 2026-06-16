@@ -1,0 +1,40 @@
+﻿---
+ID: "8afc7990-21c9-45a3-80fe-f5db5157cbc6"
+Parent: "68f10147-5a4a-4a37-842e-33dc59c81519"
+Template: "f0a9cb63-521b-4ed6-8350-e6325796da94"
+Path: "/sitecore/templates/Branches/Project/click-click-launch/Components/Dycom Network Map/$name/CableCom LLC/CA Office"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: CA Office
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "d4de1234-3bdc-441f-a2df-c4b2d8657037"
+      Hint: latitude
+      Value: 37.645952
+    - ID: "6dfd7d5b-52e2-4442-bb1a-91b9056ea473"
+      Hint: longitude
+      Value: -122.404341
+    - ID: "2614b87b-2779-4721-9be0-8ed25f4a7409"
+      Hint: stateCode
+      Value: CA
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260616T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0241c5e-a171-467f-9b14-d21b3f20ecbc"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260616T000000Z
