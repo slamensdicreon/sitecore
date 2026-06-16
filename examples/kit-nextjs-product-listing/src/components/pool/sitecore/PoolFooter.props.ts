@@ -16,6 +16,6 @@ export interface PoolFooterFields {
 }
 
 export interface PoolFooterProps extends ComponentProps {
-  params: { [key: string]: unknown };
+  params: { [key: string]: any }; // eslint-disable-line @typescript-eslint/no-explicit-any
   fields: PoolFooterFields;
 }

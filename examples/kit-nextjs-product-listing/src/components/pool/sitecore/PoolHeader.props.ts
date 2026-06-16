@@ -17,6 +17,6 @@ export interface PoolHeaderFields {
 }
 
 export interface PoolHeaderProps extends ComponentProps {
-  params: { [key: string]: unknown };
+  params: { [key: string]: any }; // eslint-disable-line @typescript-eslint/no-explicit-any
   fields: PoolHeaderFields;
 }
