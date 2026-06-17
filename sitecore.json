@@ -15,7 +15,7 @@
     "defaultModuleRelativeSerializationPath": "items",
     "removeOrphansForRoles": true,
     "removeOrphansForUsers": true,
-    "continueOnItemFailure": false,
+    "continueOnItemFailure": true,
     "excludedFields": [],
     "progressiveMetadataPull": false
   },
